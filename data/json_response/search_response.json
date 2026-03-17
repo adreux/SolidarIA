@@ -1,0 +1,4862 @@
+{
+    "href": "https://api.ebay.com/buy/browse/v1/item_summary/search?q=coat&limit=50&offset=0",
+    "total": 20898,
+    "next": "https://api.ebay.com/buy/browse/v1/item_summary/search?q=coat&limit=50&offset=50",
+    "limit": 50,
+    "offset": 0,
+    "itemSummaries": [
+        {
+            "itemId": "v1|358311088969|626586956773",
+            "title": "MISBHV Osaka Wool Coat \u2018After Dark\u2019 Collection AW16",
+            "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=358311088969",
+            "leafCategoryIds": [
+                "63862"
+            ],
+            "categories": [
+                {
+                    "categoryId": "63862",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "15724",
+                    "categoryName": "Femme : v\u00eatements"
+                },
+                {
+                    "categoryId": "260010",
+                    "categoryName": "Femme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/sj8AAeSwHxppsJZg/s-l225.jpg"
+            },
+            "price": {
+                "value": "625.00",
+                "currency": "EUR"
+            },
+            "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C358311088969%7C626586956773",
+            "seller": {
+                "username": "deibido",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 4,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/sj8AAeSwHxppsJZg/s-l1200.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "0.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/358311088969?_skw=coat&hash=item536d015349:g:sj8AAeSwHxppsJZg",
+            "itemLocation": {
+                "postalCode": "75***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/cAcAAeSwnjlpsJZg/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/FdEAAeSwSMppsJZh/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/mZUAAeSwSltpsJZh/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/qQIAAeSwu6hpsJZg/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/sYQAAeSwOOFpsJZg/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/o-sAAeSwtiBpsJZh/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/lckAAeSwW15psJZh/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/p4IAAeSw2yNpsJZg/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/uJoAAeSwUappsJZg/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/ohYAAeSwv5NpsJZg/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/pYYAAeSwdRtpsJZh/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/oaUAAeSwRr1psJZh/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/oMUAAeSwMotpsJZf/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "358311088969",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-03-10T22:26:40.000Z",
+            "itemCreationDate": "2026-03-10T22:26:40.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|358159199373|0",
+            "title": "Claude Bonucci Genuine Manteau Leather Long Coat Trench Black Size 56 Belted",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/tsMAAeSwYkRpeAG4/s-l225.jpg"
+            },
+            "price": {
+                "value": "79.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C358159199373%7C0",
+            "seller": {
+                "username": "the_good_find_6",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 14,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Parfait \u00e9tat",
+            "conditionId": "2990",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/tsMAAeSwYkRpeAG4/s-l1200.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "14.99",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-16T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/358159199373?_skw=coat&hash=item5363f3ac8d:g:tsMAAeSwYkRpeAG4&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGbsBEqO7Y7uua3LGpeCXoFEy%2BQm8Mx%2FUmNQqwvmE7MTgT%2FeDw865cQ7kcxJe%2FEcuf3cylnPZMdPymt8mlWaj%2FP4kqm0yEam4oZME2iFWnUfjZ%2FTcIzLv1Xd%2BjNVeIvVN0CnsCS1x7jOlRs0pZg6P%2BThpp5LFuij%2FKD0Xh6XUIdl4z4KhmLU%2F1ixJ3jblyCdJGoGH4WstF%2Fw%2FTsyju7sIVuTSbSlJpNl8%2BWObGp4BXIgvHc%2BBlC9ix6Gyd8OgozHB73zu6Yz%2FvjzMZngBjoDOCiF",
+            "itemLocation": {
+                "postalCode": "06***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/vjsAAeSwXZFpeAG4/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/roIAAeSwPu1peAHh/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/am8AAeSwQGJpeAHi/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/vZkAAeSw6YtpeAHi/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "358159199373",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-01-27T00:16:10.000Z",
+            "itemCreationDate": "2026-01-27T00:16:10.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": true,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|358257345195|0",
+            "title": "Loden Frey  Vintage Men\u2019s Wool Coat Dark Blue Wool\ufffcAlpaca Size 46",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/wT4AAeSwrWhpn3Em/s-l225.jpg"
+            },
+            "price": {
+                "value": "59.99",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C358257345195%7C0",
+            "seller": {
+                "username": "e_o_s_f_o_r_o_s",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 262,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Bon \u00e9tat",
+            "conditionId": "3010",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/wT4AAeSwrWhpn3Em/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "0.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-16T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/358257345195?_skw=coat&hash=item5369cd42ab:g:wT4AAeSwrWhpn3Em",
+            "itemLocation": {
+                "postalCode": "13***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/OxAAAeSwSgxpnrcU/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/BhAAAeSwQ6RpnrcV/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/68YAAeSwXH1pnrcT/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/C-0AAeSw8jlpnrcX/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/M~kAAeSw0oxpnrcU/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/P8MAAeSwXm9pnrcU/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/RNkAAeSwfQhpnrcV/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/-yMAAeSwsh9pnrcV/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/RGQAAeSwuHtpnrcW/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/GooAAeSwPZlpnrnz/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Dr4AAeSwcMtpnrny/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/AXIAAeSwni9pnrox/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/VwEAAeSw50Npnroy/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/DfYAAeSwNTtpnroy/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/WQ8AAeSwuFlpnroy/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "358257345195",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-02-25T08:51:13.000Z",
+            "itemCreationDate": "2026-02-25T08:51:13.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|358303333084|0",
+            "title": "Trench Coat Casual Militaire Kaki Clair Vintage 1985 Vetifler",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/siQAAeSwwXdprgk9/s-l225.jpg"
+            },
+            "price": {
+                "value": "70.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C358303333084%7C0",
+            "seller": {
+                "username": "siegel_vintage",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 147,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Parfait \u00e9tat",
+            "conditionId": "2990",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/siQAAeSwwXdprgk9/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "8.50",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-13T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/358303333084?_skw=coat&hash=item536c8afadc:g:siQAAeSwwXdprgk9",
+            "itemLocation": {
+                "postalCode": "34***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/iGAAAeSwPa9prgk8/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/V1AAAeSwCxZprgk8/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/nCUAAeSwO61prgk9/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/YPcAAeSwgvFprgk~/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/r2wAAeSwAYxprglB/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "358303333084",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-03-08T23:43:50.000Z",
+            "itemCreationDate": "2026-03-08T23:43:50.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|396343053247|0",
+            "title": "Shine Armor Fortify Quick Coat 236 ml  Protection rev\u00eatement c\u00e9ramique polym\u00e8re",
+            "leafCategoryIds": [
+                "179460"
+            ],
+            "categories": [
+                {
+                    "categoryId": "179460",
+                    "categoryName": "Cires et lustreurs"
+                },
+                {
+                    "categoryId": "82099",
+                    "categoryName": "Auto : entretien, maintenance et remorques"
+                },
+                {
+                    "categoryId": "131090",
+                    "categoryName": "Auto, moto - pi\u00e8ces, accessoires"
+                },
+                {
+                    "categoryId": "179448",
+                    "categoryName": "Nettoyage et entretien auto"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/VDsAAOSwsn1oU~yw/s-l225.jpg"
+            },
+            "price": {
+                "value": "19.99",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C396343053247%7C0",
+            "seller": {
+                "username": "racersdriversshop",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 7,
+                "sellerAccountType": "BUSINESS"
+            },
+            "condition": "Neuf",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/VDsAAOSwsn1oU~yw/s-l1200.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "0.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-16T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/396343053247?_skw=coat&hash=item5c47e30bbf:g:VDsAAOSwsn1oU~yw",
+            "itemLocation": {
+                "postalCode": "95***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/s8cAAOSw5gBn5A2i/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/7KEAAOSwczZn3CIn/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/o9gAAOSwp11n3CI1/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/FFMAAOSwY1Jn3CIM/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/8WUAAOSw3-hoU~yo/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/YPEAAOSwoa9oXkf4/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/99sAAOSwQNZoXkf~/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/IaIAAOSwkMdn3CK-/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "396343053247",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-03-21T07:34:23.000Z",
+            "itemCreationDate": "2025-03-21T07:34:23.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|404226894429|674109148955",
+            "title": "Brandit Pea Coat Marine Homme Manteau Court D'Hiver Caban Veste Laine S-7XL",
+            "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=404226894429",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/pjMAAeSw5mlpaNvl/s-l225.jpg"
+            },
+            "price": {
+                "value": "79.31",
+                "currency": "EUR"
+            },
+            "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C404226894429%7C674109148955",
+            "seller": {
+                "username": "outdoorfan_de",
+                "feedbackPercentage": "99.6",
+                "feedbackScore": 375844,
+                "sellerAccountType": "BUSINESS"
+            },
+            "condition": "Neuf avec \u00e9tiquettes",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/pjMAAeSw5mlpaNvl/s-l1200.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "12.95",
+                        "currency": "EUR"
+                    }
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "epid": "1242520870",
+            "itemWebUrl": "https://www.ebay.fr/itm/404226894429?_skw=coat&hash=item5e1dccea5d:g:pjMAAeSw5mlpaNvl",
+            "itemLocation": {
+                "postalCode": "15***",
+                "country": "DE"
+            },
+            "adultOnly": false,
+            "legacyItemId": "404226894429",
+            "availableCoupons": false,
+            "itemOriginDate": "2023-04-01T16:56:27.000Z",
+            "itemCreationDate": "2023-04-01T16:56:27.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|326823615967|0",
+            "title": "Manteau C\u00e9line En Alpaga Coat C\u00e9line Alpaga",
+            "leafCategoryIds": [
+                "63862"
+            ],
+            "categories": [
+                {
+                    "categoryId": "63862",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "15724",
+                    "categoryName": "Femme : v\u00eatements"
+                },
+                {
+                    "categoryId": "260010",
+                    "categoryName": "Femme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/xEgAAeSwn6Bo81-2/s-l225.jpg"
+            },
+            "price": {
+                "value": "320.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326823615967%7C0",
+            "seller": {
+                "username": "sogaby",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 1044,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/xEgAAeSwn6Bo81-2/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "15.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/326823615967?_skw=coat&hash=item4c18349ddf:g:xEgAAeSwn6Bo81-2",
+            "itemLocation": {
+                "postalCode": "94***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/wjEAAeSw6M9o81-3/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/2tYAAeSwp~xo81-3/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/-vgAAeSwidpo81-4/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/ovEAAeSwglpo81-4/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "326823615967",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-10-18T09:55:53.000Z",
+            "itemCreationDate": "2025-10-18T09:55:53.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|326979407194|0",
+            "title": "Manteau Vanessa Bruno Coat Vanessa Bruno ",
+            "leafCategoryIds": [
+                "63862"
+            ],
+            "categories": [
+                {
+                    "categoryId": "63862",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "15724",
+                    "categoryName": "Femme : v\u00eatements"
+                },
+                {
+                    "categoryId": "260010",
+                    "categoryName": "Femme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/RyoAAeSwlRNpfivt/s-l225.jpg"
+            },
+            "price": {
+                "value": "150.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326979407194%7C0",
+            "seller": {
+                "username": "sogaby",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 1044,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/RyoAAeSwlRNpfivt/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "15.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/326979407194?_skw=coat&hash=item4c217dcd5a:g:RyoAAeSwlRNpfivt",
+            "itemLocation": {
+                "postalCode": "94***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/OxUAAeSwV4lpfivu/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/I~gAAeSwaZFpfivv/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/PNAAAeSw61Bpfivw/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/R7sAAeSwiLRpfivx/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/t1sAAeSwDCxpfivx/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "326979407194",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-01-31T16:27:17.000Z",
+            "itemCreationDate": "2026-01-31T16:27:17.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|313370256447|612250382046",
+            "title": "Am\u00e9ricaine Bleu Marine Pea Coat XS-5XL Manteau Laine D'Hiver Court Caban Colani",
+            "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=313370256447",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/e90AAeSwdB9pbH6l/s-l225.jpg"
+            },
+            "price": {
+                "value": "81.42",
+                "currency": "EUR"
+            },
+            "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C313370256447%7C612250382046",
+            "seller": {
+                "username": "outdoorfan_de",
+                "feedbackPercentage": "99.6",
+                "feedbackScore": 375844,
+                "sellerAccountType": "BUSINESS"
+            },
+            "condition": "Neuf avec \u00e9tiquettes",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/e90AAeSwdB9pbH6l/s-l1200.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "12.95",
+                        "currency": "EUR"
+                    }
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "epid": "1961683368",
+            "itemWebUrl": "https://www.ebay.fr/itm/313370256447?_skw=coat&hash=item48f652a43f:g:e90AAeSwdB9pbH6l",
+            "itemLocation": {
+                "postalCode": "15***",
+                "country": "DE"
+            },
+            "adultOnly": false,
+            "legacyItemId": "313370256447",
+            "availableCoupons": false,
+            "itemOriginDate": "2021-01-05T10:12:04.000Z",
+            "itemCreationDate": "2021-01-05T10:12:04.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|366264010324|0",
+            "title": "Vintage French Workwear Jacket SANFOR \u2013 Blue Cotton Chore Coat - M/L",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/iAMAAeSwTB9psZCZ/s-l225.jpg"
+            },
+            "price": {
+                "value": "60.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C366264010324%7C0",
+            "seller": {
+                "username": "timetogs",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 2,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Bon \u00e9tat",
+            "conditionId": "3010",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/iAMAAeSwTB9psZCZ/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "5.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-19T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/366264010324?_skw=coat&hash=item5547094654:g:iAMAAeSwTB9psZCZ",
+            "itemLocation": {
+                "postalCode": "57***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/-S0AAeSw551psZCY/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/JV8AAeSw3ylpsZCX/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/AIoAAeSwq8NpsZCY/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/H2MAAeSwSHlpsZCX/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/97oAAeSwIQ9psZCY/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/8qQAAeSwf6xpsZCY/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Jj4AAeSwePBpsZCY/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/GV0AAeSwEaNpsZCZ/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/r~oAAeSw3FxpsZCY/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/yaUAAeSwpZhpsZCZ/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/p68AAeSwMWJpsZCZ/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/npoAAeSwMcVpsZCY/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/kh0AAeSwD2NpsZCY/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/KXcAAeSwdDdpsZCX/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/FwUAAeSwfyppsZCX/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/FbIAAeSwOt5psZCZ/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/-KgAAeSwLfppsZCY/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/IDIAAeSw9fppsZCZ/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/He8AAeSwJwZpsZCY/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/DIYAAeSw705psZCY/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "366264010324",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-03-11T16:05:00.000Z",
+            "itemCreationDate": "2026-03-11T16:05:00.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|301566088636|600461730717",
+            "title": "ARM\u00c9E ALLEMANDE CLASSIQUE PARKA MILITAIRE COMBAT HOMMES JACKET COAT + LINER OLIV",
+            "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=301566088636",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/F70AAOSwVNxaLA-G/s-l225.jpg"
+            },
+            "price": {
+                "value": "146.95",
+                "currency": "EUR"
+            },
+            "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C301566088636%7C600461730717",
+            "seller": {
+                "username": "military_1st",
+                "feedbackPercentage": "99.8",
+                "feedbackScore": 407011,
+                "sellerAccountType": "BUSINESS"
+            },
+            "condition": "Neuf avec \u00e9tiquettes",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/F70AAOSwVNxaLA-G/s-l960.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "5.99",
+                        "currency": "EUR"
+                    }
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/301566088636?_skw=coat&hash=item4636bd55bc:g:F70AAOSwVNxaLA-G",
+            "itemLocation": {
+                "country": "GB"
+            },
+            "adultOnly": false,
+            "legacyItemId": "301566088636",
+            "availableCoupons": false,
+            "itemOriginDate": "2015-03-17T16:19:43.000Z",
+            "itemCreationDate": "2015-03-17T16:19:43.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|326817264265|0",
+            "title": "Manteau Prada Coat Prada ",
+            "leafCategoryIds": [
+                "63862"
+            ],
+            "categories": [
+                {
+                    "categoryId": "63862",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "15724",
+                    "categoryName": "Femme : v\u00eatements"
+                },
+                {
+                    "categoryId": "260010",
+                    "categoryName": "Femme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/jAYAAeSweado7fdG/s-l225.jpg"
+            },
+            "price": {
+                "value": "180.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326817264265%7C0",
+            "seller": {
+                "username": "sogaby",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 1044,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/jAYAAeSweado7fdG/s-l960.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "15.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/326817264265?_skw=coat&hash=item4c17d3b289:g:jAYAAeSweado7fdG",
+            "itemLocation": {
+                "postalCode": "94***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/X~sAAeSwhk9o7oM5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/ht0AAeSw2zNo7oM5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/G-YAAeSwAi5o7fdI/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/bQ0AAeSwUOho7fdH/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/aq4AAeSwBwZo7fdJ/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/dpgAAeSwkZ1o7fdK/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/R1kAAeSwh7do7fdL/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/FrcAAeSw419o7oM6/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "326817264265",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-10-14T07:17:03.000Z",
+            "itemCreationDate": "2025-10-14T07:17:03.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|406708010300|0",
+            "title": "vintage 90s real suede afghan coat mongolian lamb penny lane shearling Y2K",
+            "leafCategoryIds": [
+                "63862"
+            ],
+            "categories": [
+                {
+                    "categoryId": "63862",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "15724",
+                    "categoryName": "Femme : v\u00eatements"
+                },
+                {
+                    "categoryId": "260010",
+                    "categoryName": "Femme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/SVkAAeSwiqxplvFD/s-l225.jpg"
+            },
+            "price": {
+                "value": "80.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C406708010300%7C0",
+            "seller": {
+                "username": "bunnysvintagefrance",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 9,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Bon \u00e9tat",
+            "conditionId": "3010",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/SVkAAeSwiqxplvFD/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "0.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-16T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/406708010300?_skw=coat&hash=item5eb1afbd3c:g:SVkAAeSwiqxplvFD",
+            "itemLocation": {
+                "postalCode": "79***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/XoYAAeSwTVFplvEn/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/V-kAAeSwTnpplvE4/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/XSIAAeSwtydplvFJ/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/hXUAAeSw-HZplvEn/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/fSMAAeSwVRhplvFA/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/lMUAAeSwAWlplvEn/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/VwQAAeSwpRtplvEo/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/d88AAeSwekRplvEr/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/a6MAAeSwPFJplvEt/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/mnEAAeSwnbhplvEt/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/2QUAAeSwM0tplvFF/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/kesAAeSwLedplvFI/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/lfcAAeSwzQZplvEs/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/QNwAAeSwemZplvEo/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "406708010300",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-02-19T11:21:03.000Z",
+            "itemCreationDate": "2026-02-19T11:21:03.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|257383995486|0",
+            "title": "Balmacaan Coat Marron  Brut Clothing  SIZE XL ",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/q2YAAeSwV8ppowGw/s-l225.jpg"
+            },
+            "price": {
+                "value": "1100.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C257383995486%7C0",
+            "seller": {
+                "username": "petergallagher13",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 234,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Neuf sans \u00e9tiquettes",
+            "conditionId": "1500",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/q2YAAeSwV8ppowGw/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "0.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/257383995486?_skw=coat&hash=item3bed48185e:g:q2YAAeSwV8ppowGw&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYtKtVujjYEYuatCW5hkEsldQLL0AKJgouz9XcDrHSLNn6kpbD8F8dUVrKNiZKQO2jwee0GrSzUAKHeiZVKCwtALEzx9yl7HyYLEOrs5Usk4uFOduE8vRnnNcvCmqXmzSz30P3JzuWVmvZbCzsl8caJWSWtInyYGKo6N5ee3yEL3lYv4SXl5nqDmy7B1XePkkIwDVjvt4up%2BHue5fJUcqd%2FbWyOTyEQi%2F2NxiIoOmZx8XTrEjzECY%2F3RTZlRaSJtqwSp%2Fhh8hqz8SIbi4LSCsIw",
+            "itemLocation": {
+                "postalCode": "62***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/WtwAAeSwjM1povtx/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Zm8AAeSw9ctpovtx/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/i~EAAeSwWflpovt1/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/cX4AAeSwf6Npovt3/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Y94AAeSwS5lpovt5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/dA0AAeSwIm1povt5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/10YAAeSwD8Npovt7/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/laAAAeSwo~Jpovt8/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/kpYAAeSwFK5povt~/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/by0AAeSwGU9povt~/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/j~MAAeSwP2VpovuH/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/lrYAAeSweSRpovuH/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/liAAAeSwQQppovuJ/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "257383995486",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-02-28T14:50:24.000Z",
+            "itemCreationDate": "2026-02-28T14:50:24.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": true,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|177796892751|0",
+            "title": "New Mink Fur coat",
+            "leafCategoryIds": [
+                "63862"
+            ],
+            "categories": [
+                {
+                    "categoryId": "63862",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "15724",
+                    "categoryName": "Femme : v\u00eatements"
+                },
+                {
+                    "categoryId": "260010",
+                    "categoryName": "Femme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/apQAAeSwHYJpcWSZ/s-l225.jpg"
+            },
+            "price": {
+                "value": "430.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C177796892751%7C0",
+            "seller": {
+                "username": "facaidawang",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 1,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Neuf avec \u00e9tiquettes",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/apQAAeSwHYJpcWSZ/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "30.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/177796892751?_skw=coat&hash=item296585484f:g:apQAAeSwHYJpcWSZ&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGY9DjTJyYBjYEYaExeZBNPgzc2XkMl1CvDn6PyO%2FfMmilpSvMS0a3ufSWpt6Dm7ouafILsd6e1Wm8aODrdOOvDPPVXWFOr8i1lI7DieFodpEq4%2FpFalIIRmuYyNE1tLrVZJjNlTOhuuoUAhJEnpHvm5RYa11iv0jn8mdA3OOKe7eoqzoRCtf6ntW8oTYVneFsQ7qjXz89qImRksVN0Xp96rRgSNJy5bZHd74wADhgH7aNzWUaAUCBDQ0GkqIWzhqrBdUCcQdAAIG%2FMgeva--oW6",
+            "itemLocation": {
+                "postalCode": "91***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/QZQAAeSwe85pcWSZ/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/iM4AAeSwH1NpcWSZ/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/RQIAAeSwdHtpcWSZ/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/cU8AAeSw2dxpcWSa/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "177796892751",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-01-21T23:46:08.000Z",
+            "itemCreationDate": "2026-01-21T23:46:08.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": true,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|147132543699|0",
+            "title": "Vintage Shearling Coat Brown Hooded \u2013 Genuine Sheepskin \u2013 Size 48",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/WYIAAeSw7clpgQnU/s-l225.jpg"
+            },
+            "price": {
+                "value": "79.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C147132543699%7C0",
+            "seller": {
+                "username": "ermy92000",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 7,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/WYIAAeSw7clpgQnU/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "14.90",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/147132543699?_skw=coat&hash=item2241c872d3:g:WYIAAeSw7clpgQnU&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGZb1ZIJcZVjs%2BerbFj45HQsJBPOVB4KuVOzvyPqecjjoxKV%2BlyG1hIPpBMDS7uxIg8Xbs4j59eIN4mnmYnYBAjJrRH893ezmx8rLLWyYIKWBuhEV1WAKDimzShUChY7usrAT6WQAJg2nBf%2FVwfOkcYuCXbebRGX19dQ3%2BZO6%2FXqR%2B6eWLrYj5JqlPJPrCFLf5eCFXeRJt6RAQIyCoIvZCfjZO09Ez8NbYT5ZTRSKC1acfEMKFxV%2Bcpx12oGvXGeDgBzEep8lYjdsRcpuETt8Cx2",
+            "itemLocation": {
+                "postalCode": "92***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/FQAAAeSwwJdpgQnb/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/TOwAAeSwLnxpgQnb/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/g9EAAeSwl~tpgQnc/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "147132543699",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-02-02T20:44:29.000Z",
+            "itemCreationDate": "2026-02-02T20:44:29.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": true,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|317798761740|0",
+            "title": "(10)      GORGEOUS REAL MINK COAT LUXURY FUR JACKET  BEAUTIFUL LOOK SIZE M",
+            "leafCategoryIds": [
+                "63862"
+            ],
+            "categories": [
+                {
+                    "categoryId": "63862",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "15724",
+                    "categoryName": "Femme : v\u00eatements"
+                },
+                {
+                    "categoryId": "260010",
+                    "categoryName": "Femme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/Lr0AAeSwYIZpdVab/s-l225.jpg"
+            },
+            "price": {
+                "value": "149.99",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C317798761740%7C0",
+            "seller": {
+                "username": "parisfrance2",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 32,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Lr0AAeSwYIZpdVab/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "14.99",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/317798761740?_skw=coat&hash=item49fe48450c:g:Lr0AAeSwYIZpdVab",
+            "itemLocation": {
+                "postalCode": "75***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/LEMAAeSwBRppdVaa/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/s8gAAeSwyZ9pdVaa/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/mSUAAeSwmpNpdVab/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/nMoAAeSwws1pdVab/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/B7sAAeSwt4dpdVab/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/cBYAAeSwV~5pdVav/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/MfAAAeSw5B9pdVa1/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "317798761740",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-01-24T23:33:21.000Z",
+            "itemCreationDate": "2026-01-24T23:33:21.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|406720439805|0",
+            "title": "vintage 70s blue suede afghan coat mongolian lamb collar penny lane shearling 44",
+            "leafCategoryIds": [
+                "63862"
+            ],
+            "categories": [
+                {
+                    "categoryId": "63862",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "15724",
+                    "categoryName": "Femme : v\u00eatements"
+                },
+                {
+                    "categoryId": "260010",
+                    "categoryName": "Femme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/yigAAeSwtVppmD3t/s-l225.jpg"
+            },
+            "price": {
+                "value": "220.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C406720439805%7C0",
+            "seller": {
+                "username": "bunnysvintagefrance",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 9,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/yigAAeSwtVppmD3t/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "16.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-16T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/406720439805?_skw=coat&hash=item5eb26d65fd:g:yigAAeSwtVppmD3t",
+            "itemLocation": {
+                "postalCode": "79***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/y48AAeSwAB5pmD3s/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/RHAAAeSwstJpmD3r/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/25YAAeSwmOFpmD3t/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/4g0AAeSw5llpmD3s/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/aEIAAeSwwVtpmD3t/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/VhYAAeSwLb5pmD3v/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/M8oAAeSwyBdpmD3u/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "406720439805",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-02-20T11:01:35.000Z",
+            "itemCreationDate": "2026-02-25T07:42:40.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|136928307397|0",
+            "title": "Manteau noir femme \u2013 style duffle-coat \u2013 TOSCANE   Taille 4",
+            "leafCategoryIds": [
+                "63862"
+            ],
+            "categories": [
+                {
+                    "categoryId": "63862",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "15724",
+                    "categoryName": "Femme : v\u00eatements"
+                },
+                {
+                    "categoryId": "260010",
+                    "categoryName": "Femme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/qzMAAeSwRuZpXnk2/s-l225.jpg"
+            },
+            "price": {
+                "value": "25.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C136928307397%7C0",
+            "seller": {
+                "username": "elizwie-62",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 12,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Neuf sans \u00e9tiquettes",
+            "conditionId": "1500",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/qzMAAeSwRuZpXnk2/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "4.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-16T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/136928307397?_skw=coat&hash=item1fe19028c5:g:qzMAAeSwRuZpXnk2",
+            "itemLocation": {
+                "postalCode": "12***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/uAYAAeSwHKppXnlO/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/otAAAeSw6j5pXnld/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/IL0AAeSwuNNpXnlw/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/gSsAAeSwfaBpXnl~/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/vNsAAeSwH2FpXnmO/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/n1gAAeSwhodpXnmc/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "136928307397",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-01-07T15:30:26.000Z",
+            "itemCreationDate": "2026-01-07T15:30:26.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|366258918535|0",
+            "title": "THE UNAMED : RED COAT T.2 (COMICS#11#URBAN)",
+            "leafCategoryIds": [
+                "259104"
+            ],
+            "categories": [
+                {
+                    "categoryId": "259104",
+                    "categoryName": "Comics et romans graphiques"
+                },
+                {
+                    "categoryId": "63",
+                    "categoryName": "Bandes dessin\u00e9es, comics et produits d\u00e9riv\u00e9s"
+                },
+                {
+                    "categoryId": "267",
+                    "categoryName": "Livres, BD, revues"
+                },
+                {
+                    "categoryId": "259103",
+                    "categoryName": "Comics"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/KbkAAeSwFXpprzM7/s-l225.jpg"
+            },
+            "price": {
+                "value": "15.95",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C366258918535%7C0",
+            "seller": {
+                "username": "mondesimaginaires",
+                "feedbackPercentage": "99.8",
+                "feedbackScore": 17516,
+                "sellerAccountType": "BUSINESS"
+            },
+            "condition": "Tr\u00e8s bon \u00e9tat",
+            "conditionId": "4000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/KbkAAeSwFXpprzM7/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "4.30",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-16T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/366258918535?_skw=coat&hash=item5546bb9487:g:KbkAAeSwFXpprzM7",
+            "itemLocation": {
+                "postalCode": "92***",
+                "country": "FR"
+            },
+            "adultOnly": false,
+            "legacyItemId": "366258918535",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-03-09T20:56:57.000Z",
+            "itemCreationDate": "2026-03-09T20:56:57.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|366264089323|0",
+            "title": "Vintage French Workwear Jacket Lafodex \u2013 Blue Cotton Chore Coat \u2013 Size L",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/7ZkAAeSwYXxpsZw4/s-l225.jpg"
+            },
+            "price": {
+                "value": "56.04",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C366264089323%7C0",
+            "seller": {
+                "username": "timetogs",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 2,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/7ZkAAeSwYXxpsZw4/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "5.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-19T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/366264089323?_skw=coat&hash=item55470a7aeb:g:7ZkAAeSwYXxpsZw4",
+            "itemLocation": {
+                "postalCode": "57***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/fEcAAeSwSEVpsZw5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/WOkAAeSwO1hpsZw4/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/UxsAAeSwrA1psZw5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/arQAAeSwvdFpsZw5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/G4IAAeSw1adpsZw5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/55AAAeSwqg1psZw4/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/WZcAAeSw5WJpsZw6/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/26oAAeSwqkdpsZw4/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/dHEAAeSw9vJpsZw6/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/4OAAAeSwnNBpsZw5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/4bkAAeSwhHdpsZw5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/T~cAAeSwn-FpsZw4/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/7d0AAeSwnrxpsZw5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/GGIAAeSwIO1psZw5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Vy0AAeSwsrNpsZw5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/2ZwAAeSwQ6RpsZw5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/4BQAAeSwjchpsZw4/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "366264089323",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-03-11T16:54:12.000Z",
+            "itemCreationDate": "2026-03-11T16:54:12.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|306800665558|0",
+            "title": "SIMMONS BILT HUGGY HORSEHIDE COAT TAILLE 40",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/mJUAAeSwu39ppqav/s-l225.jpg"
+            },
+            "price": {
+                "value": "450.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C306800665558%7C0",
+            "seller": {
+                "username": "bebop2016",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 187,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/mJUAAeSwu39ppqav/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "20.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-13T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/306800665558?_skw=coat&hash=item476ebea3d6:g:mJUAAeSwu39ppqav",
+            "itemLocation": {
+                "postalCode": "83***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/GPAAAeSwI6dppqa8/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/hr0AAeSwoK1ppqbC/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/WEkAAeSwDGVpkW73/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/BUgAAeSw2Ktppqa2/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/3YAAAeSwy3xppqbT/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/h6QAAeSwoK1ppqbt/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "306800665558",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-02-15T07:02:16.000Z",
+            "itemCreationDate": "2026-03-03T08:40:28.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|206105643504|0",
+            "title": "Imper trench-coat YVES SAINT LAURENT Taille 48 Doublure \u00c9cossais Vintage 1980s",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/--gAAeSwCYhpHyY0/s-l225.jpg"
+            },
+            "price": {
+                "value": "120.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C206105643504%7C0",
+            "seller": {
+                "username": "chelmidu34",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 254,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/--gAAeSwCYhpHyY0/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "10.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-16T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/206105643504?_skw=coat&hash=item2ffcda89f0:g:--gAAeSwCYhpHyY0",
+            "itemLocation": {
+                "postalCode": "34***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/0FYAAeSw3PFpHyYX/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/EkkAAeSwMjFpHyc5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/6O8AAeSw89dpHyc6/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/7~QAAeSws35pHyjx/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/DcUAAeSwC~ZpHyYc/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/29MAAeSwfL5pHydy/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/xdcAAeSw32NpHyYi/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/9bMAAeSwPpJpHyYi/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/x-QAAeSwI5ppHyYm/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/1TwAAeSwNDppHyYl/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/2ZEAAeSwFaZpHyc5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/-24AAeSwPpJpHyc6/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/6KcAAeSwekhpHyc7/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/0vcAAeSw5O1pHyg9/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/J1QAAeSwBjtpHywU/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/HbcAAeSwFJJpHywU/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/~30AAeSwOElpHywW/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/5wcAAeSwxJ9pHywW/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/GQMAAeSwPfVpHywX/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/KFIAAeSwdVZpHywX/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/ABEAAeSwih9pHywY/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/GngAAeSwSTlpHyxX/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/AroAAeSw-5xpHyxu/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "206105643504",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-11-21T06:31:06.000Z",
+            "itemCreationDate": "2026-03-02T12:04:11.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|198053623261|0",
+            "title": "Sartoria Veste Jacket Sport Coat Tweed 38-39L/48-49L Laine Wool Handmade Italy",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/G~4AAeSwE3dpdgCP/s-l225.jpg"
+            },
+            "price": {
+                "value": "200.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C198053623261%7C0",
+            "seller": {
+                "username": "kerloak",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 623,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/G~4AAeSwE3dpdgCP/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "14.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/198053623261?_skw=coat&hash=item2e1cea75dd:g:G~4AAeSwE3dpdgCP",
+            "itemLocation": {
+                "postalCode": "75***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Ik0AAeSwCZZpdgCW/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/JPkAAeSwtbtpdgCX/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/HSIAAeSwIiNpdgCP/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/T5kAAeSw63JpdgCQ/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Hq8AAeSwW1VpdgCR/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/rUUAAeSwTVNpdgCS/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/JLMAAeSwnM1pdgCT/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/I4oAAeSwajtpdgCU/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/HwoAAeSwE0xpdgCY/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/QgAAAeSwbcxpdgCY/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/JWEAAeSwIkZpdgCV/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "198053623261",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-01-25T11:56:54.000Z",
+            "itemCreationDate": "2026-01-25T11:56:54.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|198073668650|0",
+            "title": "Prada Doudoune Jacket  Coat Puffer  Taille M Homme",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/ZUAAAeSwFPZpgLmi/s-l225.jpg"
+            },
+            "price": {
+                "value": "79.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C198073668650%7C0",
+            "seller": {
+                "username": "theabstore-5",
+                "feedbackPercentage": "93.9",
+                "feedbackScore": 344,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Bon \u00e9tat",
+            "conditionId": "3010",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/ZUAAAeSwFPZpgLmi/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "4.99",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/198073668650?_skw=coat&hash=item2e1e1c542a:g:ZUAAAeSwFPZpgLmi",
+            "itemLocation": {
+                "postalCode": "13***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/h1MAAeSw9aBpgLmi/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/RWQAAeSweW9pgLmi/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/g3MAAeSwNPhpgLmh/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/AiQAAeSwAUhpgLmi/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/BRMAAeSwTqNpgLmi/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/RQoAAeSw0y9pgLmi/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/VfkAAeSwIiNpgLmj/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "198073668650",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-02-02T14:53:08.000Z",
+            "itemCreationDate": "2026-02-02T14:53:08.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|357884532357|0",
+            "title": "Trench Coat Casual Vintage 80\u2019s Blizzand (Made In France)",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/DTIAAOSwUGVn7AQW/s-l225.jpg"
+            },
+            "price": {
+                "value": "70.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C357884532357%7C0",
+            "seller": {
+                "username": "siegel_vintage",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 147,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/DTIAAOSwUGVn7AQW/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "8.50",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-13T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/357884532357?_skw=coat&hash=item5353949685:g:DTIAAOSwUGVn7AQW",
+            "itemLocation": {
+                "postalCode": "34***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/fB8AAOSw2yVn7AQS/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/NHoAAOSwv7hn7AQG/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/hiYAAOSwjzRn7AQR/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/VUkAAOSwK~pn7AQj/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/VNIAAOSw2tZn7AQN/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/urMAAOSwjQ9n7AQj/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/r5EAAOSwyyxn7AQf/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "357884532357",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-11-10T16:06:54.000Z",
+            "itemCreationDate": "2025-11-10T16:06:54.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|375226900703|644239380981",
+            "title": "Gel Coat polyester iso. Marine, 1kg + catalyseur + pipette + pinceau.",
+            "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=375226900703",
+            "leafCategoryIds": [
+                "119962"
+            ],
+            "categories": [
+                {
+                    "categoryId": "119962",
+                    "categoryName": "R\u00e9sines, mastics"
+                },
+                {
+                    "categoryId": "1293",
+                    "categoryName": "Bateaux, voile, nautisme"
+                },
+                {
+                    "categoryId": "119959",
+                    "categoryName": "Peinture, entretien"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/O~QAAOSwgYJlur~r/s-l225.jpg"
+            },
+            "price": {
+                "value": "32.00",
+                "currency": "EUR"
+            },
+            "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C375226900703%7C644239380981",
+            "seller": {
+                "username": "laboutiqueducomposite",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 9319,
+                "sellerAccountType": "BUSINESS"
+            },
+            "condition": "Neuf",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/O~QAAOSwgYJlur~r/s-l960.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "0.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-11T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-13T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/375226900703?_skw=coat&hash=item575d4420df:g:O~QAAOSwgYJlur~r",
+            "itemLocation": {
+                "postalCode": "35***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Y2MAAOSwpjFlusAK/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/NREAAOSwj89lusAK/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/EIYAAOSw6O5lusAK/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/~YoAAOSwqHxlusAK/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/v20AAOSwq-NlusJu/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/HsUAAOSwzoBlusJv/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/zOAAAOSwmC5lusJw/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/zhMAAOSw~5llusJx/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/UsYAAOSw-SJlusJx/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/SroAAOSwTnhlusJy/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/lMYAAOSwjvxlusJz/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "375226900703",
+            "availableCoupons": false,
+            "itemOriginDate": "2024-01-31T22:06:27.000Z",
+            "itemCreationDate": "2024-01-31T22:06:27.000Z",
+            "topRatedBuyingExperience": true,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|198166613852|0",
+            "title": "TRENCH COAT WEEK END DE MAX MARA TAILLE 38",
+            "leafCategoryIds": [
+                "63862"
+            ],
+            "categories": [
+                {
+                    "categoryId": "63862",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "15724",
+                    "categoryName": "Femme : v\u00eatements"
+                },
+                {
+                    "categoryId": "260010",
+                    "categoryName": "Femme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/t~UAAeSwle9prd31/s-l225.jpg"
+            },
+            "price": {
+                "value": "100.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C198166613852%7C0",
+            "seller": {
+                "username": "yomenrouge",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 1680,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Neuf sans \u00e9tiquettes",
+            "conditionId": "1500",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/t~UAAeSwle9prd31/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "9.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/198166613852?_skw=coat&hash=item2e23a68f5c:g:t~UAAeSwle9prd31",
+            "itemLocation": {
+                "postalCode": "06***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/k~cAAeSwW3Rprd32/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/vqgAAeSwCaFprd33/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/g~QAAeSwlf1prd33/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/hd8AAeSwCGpprd33/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/0hQAAeSwHq9prd37/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/mfMAAeSw2Ktprd35/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/vkgAAeSwGBBprd36/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/nt0AAeSwkixprd37/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "198166613852",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-03-08T20:43:20.000Z",
+            "itemCreationDate": "2026-03-08T20:43:20.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|147091825630|0",
+            "title": "Authentic Luxury Shearling Sheepskin Coat \u2013 Men\u2019s Leather & Wool Winter Coat \u2013 M",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/SS0AAeSwgllpZ0Pb/s-l225.jpg"
+            },
+            "price": {
+                "value": "69.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C147091825630%7C0",
+            "seller": {
+                "username": "ermy92000",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 7,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Parfait \u00e9tat",
+            "conditionId": "2990",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/SS0AAeSwgllpZ0Pb/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "14.90",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/147091825630?_skw=coat&hash=item223f5b23de:g:SS0AAeSwgllpZ0Pb&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGbRPsuKeEoUKa6XXDHwLyCgkmSdnyzgdBbw%2FzqaP6JUIrivsPsSTAgAI7Make1ZxK2AVlEHQME4ADjKBHH1yY2e%2BFFDRhShGXLufSLv2m4wZwqIXWxVH0tv96wMfb2NalGoM7sQdPX%2ByqhbP%2FpIIdPJWJDzgpr8OEv5i46uyLaBb70KkqbvTHW8TVZJpEErfj0LrhYLMhKB--5ho5%2FEcc%2B91jGmNZp8nGAyBR4VxQ2RM7bQYHwN38WH1q3M9qeXsAtjzZJdJhj7kNZ75GHAtSoz",
+            "itemLocation": {
+                "postalCode": "92***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/0GUAAeSwMf1pZ0Pb/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/3MsAAeSw12BpZ0Pc/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/~20AAeSwzYNpZ0Pc/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/r-UAAeSw5cJpZ0Pc/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/mWkAAeSwmGNpf1BY/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/SWMAAeSwkPJpf1BY/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/QrcAAeSwZ0Vpf1BZ/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/8wsAAeSwKGlpf1BZ/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/bLMAAeSwhdFpf1Ba/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/DeIAAeSwW4Npf1Ba/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/dr4AAeSw9aBpf1Bb/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "147091825630",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-01-14T07:25:54.000Z",
+            "itemCreationDate": "2026-01-14T07:25:54.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": true,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|205905941718|506688297042",
+            "title": "Trench-coat en cuir v\u00e9ritable longue longueur pour hommes de style gothique d...",
+            "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=205905941718",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/b4MAAeSwULxpNm14/s-l225.jpg"
+            },
+            "price": {
+                "value": "242.72",
+                "currency": "EUR"
+            },
+            "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C205905941718%7C506688297042",
+            "seller": {
+                "username": "leather-boutique",
+                "feedbackPercentage": "98.2",
+                "feedbackScore": 71,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Neuf avec \u00e9tiquettes",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/b4MAAeSwULxpNm14/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "25.87",
+                        "currency": "EUR"
+                    }
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/205905941718?_skw=coat&hash=item2ff0f354d6:g:b4MAAeSwULxpNm14&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGadtL0zZJPl4DpiD6QxT50AUO2KT1oNKuW8SxR30R76S4Ch0hEK4pL%2FMZVHhr6JDBXybn5gL4eMZV04JS90B9sYuVRUAs1GdIDcLUdtgUQpdSeVNLKsj8RwRQ8B40KCD7EyjzMjYx6e2AHenAQc59lyiOiEkyx7unjxRehdwAWdjYnvFZqnqva2%2FD35iujV4kZ0mvQuStcrr9lelbkYFDRC4%2FgwXRAGELgmwmEvKTQNNmEuG4fFjetd61l9i6OUVAaEE6Apib9gabcrgk2HY%2BgS",
+            "itemLocation": {
+                "country": "PK"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/xG4AAeSwdstpNm2F/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/YzQAAeSwac5pNm2E/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/lDYAAeSwCmlpNm2E/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "205905941718",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-12-08T07:57:12.000Z",
+            "itemCreationDate": "2025-12-08T07:57:12.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": true,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|197603760368|496889486748",
+            "title": "Trench-coat long homme allemand WW2 classique officier noir en cuir de mouton...",
+            "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=197603760368",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/g28AAOSwaARnM2Fx/s-l225.jpg"
+            },
+            "price": {
+                "value": "181.90",
+                "currency": "EUR"
+            },
+            "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C197603760368%7C496889486748",
+            "seller": {
+                "username": "rshleathercraft",
+                "feedbackPercentage": "98.4",
+                "feedbackScore": 1306,
+                "sellerAccountType": "BUSINESS"
+            },
+            "condition": "Neuf avec \u00e9tiquettes",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/g28AAOSwaARnM2Fx/s-l1200.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "36.36",
+                        "currency": "EUR"
+                    }
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/197603760368?_skw=coat&hash=item2e021a18f0:g:g28AAOSwaARnM2Fx&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGaQr4eiEbRinjcNLkFwVfL%2B8TUyLJWf4gSHLZSYzTnLAm1j5Ldgh%2F%2BuXjqh7P6C88Wm6HcnxK3X00%2B%2BlkAi0KloE29bfCnJokx77J5cwbXK7g72TnBaA9tsafynQrZs3lHYea3RNQC3Ri%2FYa7xBd7Dc67SFiVpk6yYtND8okUeczdCUnMQHIaTdB4WKIqG4UZyNqCm8bobish9WdIOlXHHmjAMrdj0hAbPrR1DzFKS2rzNMxuQQaM8MrRneTEFiD4qGZgL5PmQWLRGt%2FNYmURoK",
+            "itemLocation": {
+                "country": "PK"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/moAAAOSwIZlnM2F0/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Bx0AAOSw3e9nM2F8/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/OLoAAOSwux5YP-Ue/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/D-gAAOSwTBFnM2GY/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "197603760368",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-08-09T19:41:52.000Z",
+            "itemCreationDate": "2025-08-09T19:41:52.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": true,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|137103817409|0",
+            "title": "Gil Bret Duffle Coat Laine Cachemire Femme T46 / L Neuf Avec \u00c9tiquette Navy",
+            "leafCategoryIds": [
+                "63862"
+            ],
+            "categories": [
+                {
+                    "categoryId": "63862",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "15724",
+                    "categoryName": "Femme : v\u00eatements"
+                },
+                {
+                    "categoryId": "260010",
+                    "categoryName": "Femme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/0SkAAeSwH1RprBdu/s-l225.jpg"
+            },
+            "price": {
+                "value": "79.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C137103817409%7C0",
+            "seller": {
+                "username": "ybe_fr_4waizqkzf",
+                "feedbackPercentage": "0.0",
+                "feedbackScore": 3,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Neuf avec \u00e9tiquettes",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/0SkAAeSwH1RprBdu/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "0.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-16T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/137103817409?_skw=coat&hash=item1fec063ac1:g:0SkAAeSwH1RprBdu&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGaeforCBsCxDAT0LIaH4NBc1OjaXofadPGYfWm1odaTRuw%2BjXp%2FlEK5BYBr4qf5OT6UR0mxUbblOx69alk5K1VQ1ZVBu1O7lhq5sBfX%2F7M5r1QPxrZ6gaZ%2BxngiWPuWrArWWtpwMpPsuU7xppMdBbED8Q8U5UJ5bnXJFBLGEbueUDb9B8Qe4ZNOx38IRg0qrdeQtYkDI1PcvVacoCZBsXuepD%2FCVRzOOj5YphSzcd2s6Onk%2FhI8Uai7ablH4KX7hL7NyymrRi98CWF23fk0kcLf",
+            "itemLocation": {
+                "postalCode": "13***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/lQQAAeSwON5prBdu/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/2qYAAeSw8AZprBdu/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/uzkAAeSwPqFprBdu/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/psoAAeSwO2VprBdv/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "137103817409",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-03-07T12:21:10.000Z",
+            "itemCreationDate": "2026-03-07T12:21:10.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": true,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|406708071879|0",
+            "title": "vintage 70s suede afghan coat mongolian lamb collar penny lane shearling 44",
+            "leafCategoryIds": [
+                "63862"
+            ],
+            "categories": [
+                {
+                    "categoryId": "63862",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "15724",
+                    "categoryName": "Femme : v\u00eatements"
+                },
+                {
+                    "categoryId": "260010",
+                    "categoryName": "Femme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/1X0AAeSwpZRplvpW/s-l225.jpg"
+            },
+            "price": {
+                "value": "109.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C406708071879%7C0",
+            "seller": {
+                "username": "bunnysvintagefrance",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 9,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/1X0AAeSwpZRplvpW/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "16.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-16T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/406708071879?_skw=coat&hash=item5eb1b0adc7:g:1X0AAeSwpZRplvpW",
+            "itemLocation": {
+                "postalCode": "79***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/0BkAAeSwZvVplvpX/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/iuwAAeSwoVJplvpY/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/3NMAAeSwmodplvpX/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/yL0AAeSwOAhplvpW/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Dy8AAeSwZt9plvpb/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/tikAAeSwGf9plvpb/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/h8wAAeSw~J9plvpZ/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/54EAAeSwOetplvpa/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/bUkAAeSwG6xplvpX/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/2qkAAeSwRihplvpZ/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "406708071879",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-02-19T12:02:07.000Z",
+            "itemCreationDate": "2026-02-19T12:02:07.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|406372818671|0",
+            "title": "Morgan Motor Company vintage coat -  very warm / removable lining - Size L",
+            "leafCategoryIds": [
+                "91985"
+            ],
+            "categories": [
+                {
+                    "categoryId": "91985",
+                    "categoryName": "Autres"
+                },
+                {
+                    "categoryId": "14024",
+                    "categoryName": "Automobilia"
+                },
+                {
+                    "categoryId": "131090",
+                    "categoryName": "Auto, moto - pi\u00e8ces, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/tp0AAeSw1qVpHvB1/s-l225.jpg"
+            },
+            "price": {
+                "value": "35.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C406372818671%7C0",
+            "seller": {
+                "username": "scbe11130",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 132,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/tp0AAeSw1qVpHvB1/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "10.70",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/406372818671?_skw=coat&hash=item5e9db51eef:g:tp0AAeSw1qVpHvB1",
+            "itemLocation": {
+                "postalCode": "11***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/ahEAAeSwDi9pE4On/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/qJEAAeSwv9NpE4O9/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/xuAAAeSw6IxpE3W1/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/CNEAAeSwnjtpE4MT/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/ALUAAeSwHmtpE3Wn/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/juAAAeSwfFNpE3Wm/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/bFcAAeSw3lxpE3WU/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "406372818671",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-11-11T18:36:17.000Z",
+            "itemCreationDate": "2025-11-11T18:36:17.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|277784392221|0",
+            "title": "Trench Mac Coat Matelass\u00e9 M.c.overalls Mc Overalls Homme Taille S",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/afcAAeSwciBprU0G/s-l225.jpg"
+            },
+            "price": {
+                "value": "55.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C277784392221%7C0",
+            "seller": {
+                "username": "wormven",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 1149,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Neuf avec \u00e9tiquettes",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/afcAAeSwciBprU0G/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "3.95",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-16T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/277784392221?_skw=coat&hash=item40ad3d721d:g:afcAAeSwciBprU0G",
+            "itemLocation": {
+                "postalCode": "35***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/RRoAAeSwQmpprU0G/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Ln8AAeSwEG1prU0H/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/dCoAAeSwpDhprU0H/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/bv0AAeSwezhprU0I/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/KGMAAeSwPa9prU0I/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/svEAAeSw6MhprU0J/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/vXQAAeSwOt5prU0J/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/jUIAAeSwbQhprU0N/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/eTgAAeSwW15prU0L/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "277784392221",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-03-08T10:19:37.000Z",
+            "itemCreationDate": "2026-03-08T10:19:37.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|157551542064|0",
+            "title": "TRENCH-COAT BURBERRYS FEMME KAKI TAILLE 44 (voir les mensurations) peu port\u00e9.",
+            "leafCategoryIds": [
+                "63862"
+            ],
+            "categories": [
+                {
+                    "categoryId": "63862",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "15724",
+                    "categoryName": "Femme : v\u00eatements"
+                },
+                {
+                    "categoryId": "260010",
+                    "categoryName": "Femme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/BtQAAeSwR3ppRAix/s-l225.jpg"
+            },
+            "price": {
+                "value": "300.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C157551542064%7C0",
+            "seller": {
+                "username": "rodolp123",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 61,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/BtQAAeSwR3ppRAix/s-l1200.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "15.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-13T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/157551542064?_skw=coat&hash=item24aecdbf30:g:BtQAAeSwR3ppRAix",
+            "itemLocation": {
+                "postalCode": "76***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/~RYAAeSw9iJpRAje/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/2xEAAeSwnv1pRAjs/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/pwUAAeSwdLRpRAj3/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/z9kAAeSwBpNpRAkC/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/iI8AAeSwyqZpRAkK/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "157551542064",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-12-18T14:11:27.000Z",
+            "itemCreationDate": "2025-12-18T20:11:32.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|227248441020|0",
+            "title": "HILDA mohair coat new",
+            "leafCategoryIds": [
+                "63862"
+            ],
+            "categories": [
+                {
+                    "categoryId": "63862",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "15724",
+                    "categoryName": "Femme : v\u00eatements"
+                },
+                {
+                    "categoryId": "260010",
+                    "categoryName": "Femme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/SI0AAeSwRbRpro9R/s-l225.jpg"
+            },
+            "price": {
+                "value": "75.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C227248441020%7C0",
+            "seller": {
+                "username": "a953916",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 333,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Neuf avec \u00e9tiquettes",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/SI0AAeSwRbRpro9R/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "8.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/227248441020?_skw=coat&hash=item34e91006bc:g:SI0AAeSwRbRpro9R",
+            "itemLocation": {
+                "postalCode": "89***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/RkkAAeSwx-Rpro9i/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/1j0AAeSwAFRpro96/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/SlEAAeSwqihpro-L/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Wy4AAeSwR51pro-f/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/REoAAeSwGSRpro-9/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/0fQAAeSw4v9pro~P/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "227248441020",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-03-09T10:38:18.000Z",
+            "itemCreationDate": "2026-03-09T10:38:18.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|317347971623|0",
+            "title": "FUSSO COAT 12 MONTHS DARK 200g",
+            "leafCategoryIds": [
+                "179460"
+            ],
+            "categories": [
+                {
+                    "categoryId": "179460",
+                    "categoryName": "Cires et lustreurs"
+                },
+                {
+                    "categoryId": "82099",
+                    "categoryName": "Auto : entretien, maintenance et remorques"
+                },
+                {
+                    "categoryId": "131090",
+                    "categoryName": "Auto, moto - pi\u00e8ces, accessoires"
+                },
+                {
+                    "categoryId": "179448",
+                    "categoryName": "Nettoyage et entretien auto"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/vvUAAeSwmrdpryE3/s-l225.jpg"
+            },
+            "price": {
+                "value": "35.90",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C317347971623%7C0",
+            "seller": {
+                "username": "inea_fr",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 12,
+                "sellerAccountType": "BUSINESS"
+            },
+            "condition": "Neuf",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/vvUAAeSwmrdpryE3/s-l960.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "6.49",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "epid": "15038350461",
+            "itemWebUrl": "https://www.ebay.fr/itm/317347971623?_skw=coat&hash=item49e369c227:g:vvUAAeSwmrdpryE3",
+            "itemLocation": {
+                "postalCode": "78***",
+                "country": "FR"
+            },
+            "adultOnly": false,
+            "legacyItemId": "317347971623",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-09-29T08:52:59.000Z",
+            "itemCreationDate": "2025-09-29T08:52:59.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|376733150520|0",
+            "title": "burberry London trench-coat Femme Gris Clair Made In London Coton Taille L Luxe",
+            "leafCategoryIds": [
+                "63862"
+            ],
+            "categories": [
+                {
+                    "categoryId": "63862",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "15724",
+                    "categoryName": "Femme : v\u00eatements"
+                },
+                {
+                    "categoryId": "260010",
+                    "categoryName": "Femme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/KzgAAeSwCX5pJ1bi/s-l225.jpg"
+            },
+            "price": {
+                "value": "250.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C376733150520%7C0",
+            "seller": {
+                "username": "luxeheritage-81",
+                "feedbackPercentage": "93.3",
+                "feedbackScore": 13,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/KzgAAeSwCX5pJ1bi/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "11.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/376733150520?_skw=coat&hash=item57b70bad38:g:KzgAAeSwCX5pJ1bi&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGZ3jAmPtu1d2z6IYQ9Wwt2fjQfEel%2B%2BH2cSWu8UBC1n6iswEoaSXC358zICeGGQcKZUTJZJocl5hfzDHxOwS9xQRtvCnQuPUYxXrfQRiH5bvLiNJ%2B9kr7NWa495wJ%2B9VcuFT4WCGVBTKWBNQ%2FBp6e6OQjr4hotH7nTMuMMHpy8l7uMeLZmyRxS5oI6zCMRQAGXCc%2B37pQLeUmVO4KJltj67RpowKKoNS0xjyEdM6cdFtekIF1iE%2FelfvGlhGYEQkXMIM%2B0o8pJ72DQYSUG9pRH3",
+            "itemLocation": {
+                "postalCode": "73***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/x70AAeSwI5ppJ1bf/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/wp8AAeSwqcRpJ1bf/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/tO8AAeSwZzdpJ1bf/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/6wQAAeSw4VRpJ1bi/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/8-gAAeSwHjZpJ1bl/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/wMgAAeSwdvlpJ1bh/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/ydsAAeSw-65pJ1br/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/3cEAAeSwHmJpJ1br/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/4K8AAeSwijNpJ1bu/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/9UcAAeSwt~xpJ1bu/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/TvsAAeSwGGJpJ1bk/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/4HQAAeSwe1RpJ1bl/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/1aAAAeSwzxVpJ1br/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/~DEAAeSwHWhpJ1bo/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/z-AAAeSw7-5pJ1br/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "376733150520",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-11-26T20:11:48.000Z",
+            "itemCreationDate": "2025-11-27T02:11:50.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": true,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|357983610564|0",
+            "title": "Trench Coat Court Int\u00e9rieur Tartan Vintage Burberry For Harrods",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/ptwAAeSwUuFpMgKl/s-l225.jpg"
+            },
+            "price": {
+                "value": "270.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C357983610564%7C0",
+            "seller": {
+                "username": "siegel_vintage",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 147,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/ptwAAeSwUuFpMgKl/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "8.50",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/357983610564?_skw=coat&hash=item53597c66c4:g:ptwAAeSwUuFpMgKl&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGY%2BU%2Fi9YQE01c0NjSz5skK%2F652%2FnQ%2F5o3WTi8FwzWw9TMlQpu6tFxJp%2FVKSRax73GZVUZnBX27lsaqRB1Pov1mLvW%2B6V5CWFWsPfM0ZRoVlmr91kGk4xHkOAwDTQrcfir2OlNHOqzpg8emR1JEirY9YPHX%2FAiXAe3lVs6l%2BVjxS7NOUP22PxfM%2BxkBCTcOegEu6PNlN6T1VOajw5zd0%2BvEnKDoxZAfBEf76ajQ8qQ7v0IgZ%2FPpsobvEdOun2AuWf8IBrKskMnzt147A2Z2W2Qzn",
+            "itemLocation": {
+                "postalCode": "34***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/5XoAAeSwjtVpMgKl/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/3I0AAeSwMrlpMgKl/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/HyMAAeSwy2xpMgKl/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/S0oAAeSwRJ9pMgLy/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/cRoAAeSwedNpMgLP/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/-3kAAeSwhxRpMgLg/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/tAMAAeSwlfxpMgK5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/CQMAAeSwceZpMgLU/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/snwAAeSwadlpMgLU/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/SugAAeSwBYJpMgLd/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "357983610564",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-12-04T21:56:03.000Z",
+            "itemCreationDate": "2025-12-04T21:56:03.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": true,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|396989639404|0",
+            "title": "Figurine Star Wars - Han Solo Trench Coat - Kenner - 1984 - Loose - Incomplet",
+            "leafCategoryIds": [
+                "111997"
+            ],
+            "categories": [
+                {
+                    "categoryId": "111997",
+                    "categoryName": "Figurines articul\u00e9e"
+                },
+                {
+                    "categoryId": "1",
+                    "categoryName": "Collections"
+                },
+                {
+                    "categoryId": "152",
+                    "categoryName": "Science-fiction"
+                },
+                {
+                    "categoryId": "8675",
+                    "categoryName": "Star Wars"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/Wi0AAeSwqFJoqtih/s-l225.jpg"
+            },
+            "price": {
+                "value": "17.50",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C396989639404%7C0",
+            "seller": {
+                "username": "stephoux13",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 205,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Wi0AAeSwqFJoqtih/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "0.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-16T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/396989639404?_skw=coat&hash=item5c6e6d2aec:g:Wi0AAeSwqFJoqtih",
+            "itemLocation": {
+                "postalCode": "51***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Z1wAAeSwP6Roqtil/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "396989639404",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-08-24T09:18:50.000Z",
+            "itemCreationDate": "2025-08-24T09:18:50.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|227240330479|0",
+            "title": "Trench-coat Aquascutum x Old England Parma - Taille L - Made in England",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/KKQAAeSwAHNppu46/s-l225.jpg"
+            },
+            "price": {
+                "value": "180.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C227240330479%7C0",
+            "seller": {
+                "username": "nic-155333",
+                "feedbackPercentage": "0.0",
+                "feedbackScore": 0,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/KKQAAeSwAHNppu46/s-l1600.jpg"
+                }
+            ],
+            "pickupOptions": [
+                {
+                    "pickupLocationType": "ARRANGED_LOCATION"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/227240330479?_skw=coat&hash=item34e89444ef:g:KKQAAeSwAHNppu46",
+            "itemLocation": {
+                "postalCode": "06***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/rwwAAeSwRr1ppu46/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/HusAAeSwlVRppu46/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/0EgAAeSwwNlppu47/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/PHgAAeSwCQFppu47/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "227240330479",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-03-03T14:24:25.000Z",
+            "itemCreationDate": "2026-03-03T14:24:25.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|111955993866|0",
+            "title": "5kg. de GEL COAT POLYESTER ISO. MARINE NOIR, catalyseur, pinceau et pipette.",
+            "leafCategoryIds": [
+                "119962"
+            ],
+            "categories": [
+                {
+                    "categoryId": "119962",
+                    "categoryName": "R\u00e9sines, mastics"
+                },
+                {
+                    "categoryId": "1293",
+                    "categoryName": "Bateaux, voile, nautisme"
+                },
+                {
+                    "categoryId": "119959",
+                    "categoryName": "Peinture, entretien"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/6soAAOSwGYVW~86U/s-l225.jpg"
+            },
+            "price": {
+                "value": "74.90",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C111955993866%7C0",
+            "seller": {
+                "username": "laboutiqueducomposite",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 9319,
+                "sellerAccountType": "BUSINESS"
+            },
+            "condition": "Neuf",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/6soAAOSwGYVW~86U/s-l640.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "0.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-11T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-13T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/111955993866?_skw=coat&hash=item1a1118e50a:g:6soAAOSwGYVW~86U",
+            "itemLocation": {
+                "postalCode": "35***",
+                "country": "FR"
+            },
+            "adultOnly": false,
+            "legacyItemId": "111955993866",
+            "availableCoupons": false,
+            "itemOriginDate": "2016-04-02T13:54:52.000Z",
+            "itemCreationDate": "2016-04-02T13:54:52.000Z",
+            "topRatedBuyingExperience": true,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|267408897733|0",
+            "title": "GEORGES RECH : DUFFLE COAT",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/~PoAAeSwOXhozUzY/s-l225.jpg"
+            },
+            "price": {
+                "value": "110.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C267408897733%7C0",
+            "seller": {
+                "username": "artcrafts64",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 468,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Bon \u00e9tat",
+            "conditionId": "3010",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/~PoAAeSwOXhozUzY/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "11.19",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-13T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/267408897733?_skw=coat&hash=item3e42cff6c5:g:~PoAAeSwOXhozUzY",
+            "itemLocation": {
+                "postalCode": "42***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/PIcAAeSwRXpozUzb/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/0RgAAeSww8FozUzi/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/4R4AAeSwUtNozUzm/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/4tkAAeSwlE9ozUzo/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/aCkAAeSw3HlozUzp/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/xL4AAeSwswdozUzs/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "267408897733",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-09-19T12:42:16.000Z",
+            "itemCreationDate": "2025-09-19T12:42:16.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|397699962679|0",
+            "title": "Lauren Ralph Lauren Down Parka Coat Olive Green Fur Hood Winter Jacket",
+            "leafCategoryIds": [
+                "63862"
+            ],
+            "categories": [
+                {
+                    "categoryId": "63862",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "15724",
+                    "categoryName": "Femme : v\u00eatements"
+                },
+                {
+                    "categoryId": "260010",
+                    "categoryName": "Femme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/Br4AAeSwH8ppsURt/s-l225.jpg"
+            },
+            "price": {
+                "value": "150.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C397699962679%7C0",
+            "seller": {
+                "username": "casper_shop",
+                "feedbackPercentage": "94.7",
+                "feedbackScore": 38,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Parfait \u00e9tat",
+            "conditionId": "2990",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Br4AAeSwH8ppsURt/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "0.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/397699962679?_skw=coat&hash=item5c98c3d737:g:Br4AAeSwH8ppsURt",
+            "itemLocation": {
+                "postalCode": "06***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/mQMAAeSwQ-tpsURt/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/rXwAAeSwyG9psURt/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/c84AAeSwnExpsURu/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/8lMAAeSwDzZpsURu/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/8EQAAeSwhHdpsURv/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/~f0AAeSw0gNpsURu/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/KssAAeSwX1ZpsURu/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/omwAAeSw7cppsURv/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/tUQAAeSw59dpsURv/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/EtEAAeSwZQRpsURv/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/sPQAAeSw2J9psURv/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/-9wAAeSw5nxpsURw/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/qT4AAeSwu6hpsURw/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/YO0AAeSwdnFpsURw/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/qzgAAeSwO5ZpsURx/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "397699962679",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-03-11T10:34:29.000Z",
+            "itemCreationDate": "2026-03-11T10:34:29.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|405533417187|0",
+            "title": "MANTEAU SHEARLING FRATELLI ROSSETTI Cuir Peau Mouton Veste Blouson Coat Jacket",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/CSEAAOSw8V1nqP0l/s-l225.jpg"
+            },
+            "price": {
+                "value": "149.90",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C405533417187%7C0",
+            "seller": {
+                "username": "sam.sam01",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 670,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/CSEAAOSw8V1nqP0l/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "25.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/405533417187?_skw=coat&hash=item5e6bacdee3:g:CSEAAOSw8V1nqP0l",
+            "itemLocation": {
+                "postalCode": "11***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/PTwAAOSwN0pnqP0p/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/f3oAAOSwQQxnqP0v/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/f7EAAOSwJxNnqP0z/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/AHIAAOSwTtxnqP04/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Pp8AAOSwbuNnqP1D/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Z~QAAOSwQEtnqP1I/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/YMkAAOSwWXVnqP1F/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/HTsAAOSwdLBnqP1Y/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "405533417187",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-02-09T19:30:15.000Z",
+            "itemCreationDate": "2025-02-09T19:30:15.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|358019240937|0",
+            "title": "Manteau noir \u00e0 capuche femme \u2013 style duffle-coat \u2013 T2",
+            "leafCategoryIds": [
+                "63862"
+            ],
+            "categories": [
+                {
+                    "categoryId": "63862",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "15724",
+                    "categoryName": "Femme : v\u00eatements"
+                },
+                {
+                    "categoryId": "260010",
+                    "categoryName": "Femme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/vygAAeSwbc5pP9ME/s-l225.jpg"
+            },
+            "price": {
+                "value": "7.99",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C358019240937%7C0",
+            "seller": {
+                "username": "batman327",
+                "feedbackPercentage": "97.4",
+                "feedbackScore": 40,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/vygAAeSwbc5pP9ME/s-l960.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "0.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-16T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/358019240937?_skw=coat&hash=item535b9c13e9:g:vygAAeSwbc5pP9ME",
+            "itemLocation": {
+                "postalCode": "37***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/oZUAAeSw7jRpP9MP/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/15MAAeSwVbFpP9MY/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "358019240937",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-12-15T09:24:34.000Z",
+            "itemCreationDate": "2025-12-15T09:24:34.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|287188928805|0",
+            "title": "Duffle coat Pepe Jeans vert kaki avec capuche Taille L Laine Tr\u00e8s bon \u00e9tat",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/GwcAAOSw4udg7IcA/s-l225.jpg"
+            },
+            "price": {
+                "value": "74.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C287188928805%7C0",
+            "seller": {
+                "username": "desmagnelles",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 948,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/GwcAAOSw4udg7IcA/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "11.29",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-16T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/287188928805?_skw=coat&hash=item42ddcb4925:g:GwcAAOSw4udg7IcA",
+            "itemLocation": {
+                "postalCode": "87***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/TuQAAOSwX9pg7IcA/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/fF8AAOSwJ9xg7IcA/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/tv8AAOSwzoVg7IcA/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/IawAAOSwD51g7IcD/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "287188928805",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-12-21T18:07:37.000Z",
+            "itemCreationDate": "2026-03-08T17:41:08.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": false,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|297802891251|0",
+            "title": "trench coat  \"raglan\" occasion parfait \u00e9tat doublure  + veste cadeau",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/jAQAAeSwdwVpKqIv/s-l225.jpg"
+            },
+            "price": {
+                "value": "25.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C297802891251%7C0",
+            "seller": {
+                "username": "bois356",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 4,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Occasion - Parfait \u00e9tat",
+            "conditionId": "2990",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/jAQAAeSwdwVpKqIv/s-l1600.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "30.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/297802891251?_skw=coat&hash=item45566f7ff3:g:jAQAAeSwdwVpKqIv&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGbQeqpGZSXckI9JygN6JkTVl1PF32qmrNaYJWZTOSkJr56UNO4%2Fa4h5o5gkWhNOw%2FLYnjnqejjiLUmvOKPnaxyppXp5dIfz4ZGDKxkfJDWEH6q8iqitVg7Zwkx2IAaKIrRZRaj1x4oAXDvrc4U2ZMtrjsjO5ctV15%2FrUlRJUG4mX2JILcyoielNAOAiXLI%2B4DEIJOq6vJYX3g4wMmO4rTToIYd8VXiAhtTRnBOBHCo%2F6aS5wusJCbdmE3bvnZpSkKuX5WO8bKR8p7MMGRpfjsQ0",
+            "itemLocation": {
+                "postalCode": "11***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/tEwAAeSwrxVpKqI5/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/iv0AAeSwijNpKqJE/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/XOEAAeSwPGtpKqJO/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/Ra8AAeSw4hlpTV0A/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/HfIAAeSwm0FpTV0S/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/I6wAAeSwwQ1pTV0e/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/ALkAAeSwNoNpTV0s/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "297802891251",
+            "availableCoupons": false,
+            "itemOriginDate": "2025-11-29T07:42:58.000Z",
+            "itemCreationDate": "2025-11-29T07:42:58.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": true,
+            "listingMarketplaceId": "EBAY_FR"
+        },
+        {
+            "itemId": "v1|406717232576|0",
+            "title": "Parka Brioni Stop System Coat",
+            "leafCategoryIds": [
+                "57988"
+            ],
+            "categories": [
+                {
+                    "categoryId": "57988",
+                    "categoryName": "Manteaux, vestes et gilets"
+                },
+                {
+                    "categoryId": "1059",
+                    "categoryName": "Homme : v\u00eatements"
+                },
+                {
+                    "categoryId": "11450",
+                    "categoryName": "V\u00eatements, accessoires"
+                },
+                {
+                    "categoryId": "260012",
+                    "categoryName": "Homme : v\u00eatements, accessoires"
+                }
+            ],
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/images/g/makAAeSwG7ppnLcO/s-l225.jpg"
+            },
+            "price": {
+                "value": "570.00",
+                "currency": "EUR"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C406717232576%7C0",
+            "seller": {
+                "username": "siha8384",
+                "feedbackPercentage": "0.0",
+                "feedbackScore": 0,
+                "sellerAccountType": "INDIVIDUAL"
+            },
+            "condition": "Neuf sans \u00e9tiquettes",
+            "conditionId": "1500",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/makAAeSwG7ppnLcO/s-l1200.jpg"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "20.00",
+                        "currency": "EUR"
+                    },
+                    "minEstimatedDeliveryDate": "2026-03-15T23:00:00.000Z",
+                    "maxEstimatedDeliveryDate": "2026-03-18T23:00:00.000Z"
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE",
+                "BEST_OFFER"
+            ],
+            "itemWebUrl": "https://www.ebay.fr/itm/406717232576?_skw=coat&hash=item5eb23c75c0:g:makAAeSwG7ppnLcO&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGbw6VpNqFaMRJ3iv3Fv2w%2FHQNpxXAdDFFMfMPBuDvJU89g0AFLdb%2B2BTF1dM5f4ZfiselWxREVGh4%2BxfOWurfwaE8G%2BSubhmjARJuyxMK4vg7onHGcEpRC2f4kZK%2FLUAlz8VBUA%2BFoGpI8gPJuR15ZaGprq2d8tAmyJkviIGhdl4Xhnm%2FZS%2FveaWOBlJpaP0kDQiKxEdV8cBVO%2BKrfBWQ0l93K3yG7mYmFMyOpTDjQF0jsbkPmTRWrqpbVV1YQp2yTlH2nPNnjSX1UtIEkYZV6N",
+            "itemLocation": {
+                "postalCode": "84***",
+                "country": "FR"
+            },
+            "additionalImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/GA0AAeSwU69pnLcO/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/HbcAAeSwReVpnLcO/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/BT8AAeSwoNppnLcP/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/~mkAAeSwUalpnLcP/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/MaEAAeSwZvVpnLcP/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/L7MAAeSw8uJpnLcQ/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/84QAAeSwo7hpnLcQ/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/BtsAAeSw5slpnLcR/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/YKMAAeSwYkNpnLcR/s-l225.jpg"
+                },
+                {
+                    "imageUrl": "https://i.ebayimg.com/images/g/IKYAAeSw77VpnLcS/s-l225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "legacyItemId": "406717232576",
+            "availableCoupons": false,
+            "itemOriginDate": "2026-02-23T20:29:20.000Z",
+            "itemCreationDate": "2026-02-23T20:29:20.000Z",
+            "topRatedBuyingExperience": false,
+            "priorityListing": true,
+            "listingMarketplaceId": "EBAY_FR"
+        }
+    ]
+}

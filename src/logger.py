@@ -4,6 +4,11 @@ from pathlib import Path
 _logging_configured = False
 
 
+class WarningFilter(logging.Filter):
+    def filter(self, record):
+        return record.levelno >= logging.WARNING
+
+
 def setup_logging(log_file: str = None, level=logging.INFO):
     global _logging_configured
 
@@ -18,12 +23,17 @@ def setup_logging(log_file: str = None, level=logging.INFO):
 
     log_file.parent.mkdir(parents=True, exist_ok=True)
 
+    file_handler = logging.FileHandler(log_file)
+    file_handler.addFilter(WarningFilter())
+
+    stream_handler = logging.StreamHandler()
+
     logging.basicConfig(
         level=level,
         format="%(asctime)s [%(levelname)s] %(filename)s:%(lineno)d - %(name)s: %(message)s",
         handlers=[
-            logging.FileHandler(log_file),
-            logging.StreamHandler(),
+            file_handler,
+            stream_handler,
         ],
     )
 
