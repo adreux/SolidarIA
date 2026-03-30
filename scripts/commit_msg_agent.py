@@ -136,6 +136,9 @@ def main() -> int:
     print(f"\n{status} {ticket_id} — {reason}")
 
     if not coherent:
+        if not sys.stdin.isatty():
+            print("Stdin non interactif (merge/rebase) — commit autorisé.")
+            return 0
         answer = input("Continuer quand même ? [y/N] ").strip().lower()
         if answer not in ("y", "o", "oui", "yes"):
             print("Commit annulé. Corrige le message ou le code.")

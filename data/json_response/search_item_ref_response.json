@@ -1,0 +1,370 @@
+{
+    "itemId": "v1|358311088969|626586956773",
+    "sellerItemRevision": "4",
+    "title": "MISBHV Osaka Wool Coat \u2018After Dark\u2019 Collection AW16",
+    "shortDescription": "MISBHV OSAKA WOOL COAT 'AFTER DARK' AW16. MISBHV Black Heads Oversize Wool Coat from 'After Dark' Autumn/Winter 2016 Collection. A collector item conserved in very good condition, 81% wool 19% nylon.",
+    "price": {
+        "value": "625.00",
+        "currency": "EUR"
+    },
+    "categoryPath": "V\u00eatements, accessoires|Femme : v\u00eatements, accessoires|Femme : v\u00eatements|Manteaux, vestes et gilets",
+    "categoryIdPath": "11450|260010|15724|63862",
+    "condition": "Occasion - Tr\u00e8s bon \u00e9tat",
+    "conditionId": "3000",
+    "conditionDescription": "From a smoke-free/pet-free home.",
+    "itemLocation": {
+        "city": "Paris",
+        "postalCode": "75***",
+        "country": "FR"
+    },
+    "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/sj8AAeSwHxppsJZg/s-l1600.jpg",
+        "width": 855,
+        "height": 1140
+    },
+    "additionalImages": [
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/cAcAAeSwnjlpsJZg/s-l1600.jpg",
+            "width": 855,
+            "height": 1140
+        },
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/FdEAAeSwSMppsJZh/s-l1600.jpg",
+            "width": 1012,
+            "height": 1349
+        },
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/mZUAAeSwSltpsJZh/s-l1600.jpg",
+            "width": 1200,
+            "height": 1600
+        },
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/qQIAAeSwu6hpsJZg/s-l1600.jpg",
+            "width": 1200,
+            "height": 1600
+        },
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/sYQAAeSwOOFpsJZg/s-l1600.jpg",
+            "width": 1200,
+            "height": 1600
+        },
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/o-sAAeSwtiBpsJZh/s-l1600.jpg",
+            "width": 847,
+            "height": 1600
+        },
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/lckAAeSwW15psJZh/s-l1600.jpg",
+            "width": 847,
+            "height": 1600
+        },
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/p4IAAeSw2yNpsJZg/s-l1600.jpg",
+            "width": 1200,
+            "height": 1599
+        },
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/uJoAAeSwUappsJZg/s-l1600.jpg",
+            "width": 1200,
+            "height": 1599
+        },
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/ohYAAeSwv5NpsJZg/s-l1600.jpg",
+            "width": 1200,
+            "height": 1599
+        },
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/pYYAAeSwdRtpsJZh/s-l1600.jpg",
+            "width": 1200,
+            "height": 1600
+        },
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/oaUAAeSwRr1psJZh/s-l1600.jpg",
+            "width": 1200,
+            "height": 1600
+        },
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/oMUAAeSwMotpsJZf/s-l1600.jpg",
+            "width": 1024,
+            "height": 683
+        }
+    ],
+    "color": "Noir",
+    "size": "L",
+    "brand": "MISBHV",
+    "itemCreationDate": "2026-03-10T22:26:40.000Z",
+    "seller": {
+        "username": "deibido",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 4,
+        "sellerAccountType": "INDIVIDUAL"
+    },
+    "estimatedAvailabilities": [
+        {
+            "deliveryOptions": [
+                "SHIP_TO_HOME"
+            ],
+            "estimatedAvailabilityStatus": "IN_STOCK",
+            "estimatedAvailableQuantity": 1,
+            "estimatedSoldQuantity": 0,
+            "estimatedRemainingQuantity": 1
+        }
+    ],
+    "shippingOptions": [
+        {
+            "shippingServiceCode": "Autre livraison en 48 h",
+            "shippingCarrierCode": "Other",
+            "type": "Standard",
+            "shippingCost": {
+                "value": "0.00",
+                "currency": "EUR"
+            },
+            "quantityUsedForEstimate": 1,
+            "minEstimatedDeliveryDate": "2026-03-16T10:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2026-03-19T10:00:00.000Z",
+            "additionalShippingCostPerUnit": {
+                "value": "0.00",
+                "currency": "EUR"
+            },
+            "shippingCostType": "FIXED"
+        }
+    ],
+    "shipToLocations": {
+        "regionIncluded": [
+            {
+                "regionName": "Monde entier",
+                "regionType": "WORLDWIDE",
+                "regionId": "WORLDWIDE"
+            }
+        ],
+        "regionExcluded": [
+            {
+                "regionName": "Bi\u00e9lorussie",
+                "regionType": "COUNTRY",
+                "regionId": "BY"
+            },
+            {
+                "regionName": "Ukraine",
+                "regionType": "COUNTRY",
+                "regionId": "UA"
+            },
+            {
+                "regionName": "Russie",
+                "regionType": "COUNTRY",
+                "regionId": "RU"
+            }
+        ]
+    },
+    "returnTerms": {
+        "returnsAccepted": false
+    },
+    "localizedAspects": [
+        {
+            "type": "STRING",
+            "name": "Taille",
+            "value": "L"
+        },
+        {
+            "type": "STRING",
+            "name": "Occasion",
+            "value": "Affaires, D\u00e9contract\u00e9, Formel, Professionel"
+        },
+        {
+            "type": "STRING",
+            "name": "Fermeture",
+            "value": "Bouton"
+        },
+        {
+            "type": "STRING",
+            "name": "Mati\u00e8re doublure externe",
+            "value": "81% wool, 19% nylon"
+        },
+        {
+            "type": "STRING",
+            "name": "Type de taille",
+            "value": "Grand (longueur)"
+        },
+        {
+            "type": "STRING",
+            "name": "Caract\u00e9ristiques",
+            "value": "Patchwork"
+        },
+        {
+            "type": "STRING",
+            "name": "Mod\u00e8le",
+            "value": "MISBHV Black Heads"
+        },
+        {
+            "type": "STRING",
+            "name": "Couleur",
+            "value": "Noir"
+        },
+        {
+            "type": "STRING",
+            "name": "Marque",
+            "value": "MISBHV"
+        },
+        {
+            "type": "STRING",
+            "name": "Type",
+            "value": "Manteau"
+        },
+        {
+            "type": "STRING",
+            "name": "Pays d'origine",
+            "value": "Pologne"
+        },
+        {
+            "type": "STRING",
+            "name": "Quantit\u00e9 unitaire",
+            "value": "1"
+        },
+        {
+            "type": "STRING",
+            "name": "Personnage",
+            "value": "3:35 PM"
+        },
+        {
+            "type": "STRING",
+            "name": "Style",
+            "value": "Long Coat"
+        },
+        {
+            "type": "STRING",
+            "name": "Saison",
+            "value": "Automne, Hiver, Printemps"
+        },
+        {
+            "type": "STRING",
+            "name": "Th\u00e8me",
+            "value": "Hipster"
+        },
+        {
+            "type": "STRING",
+            "name": "D\u00e9partement",
+            "value": "Adulte unisexe"
+        }
+    ],
+    "topRatedBuyingExperience": false,
+    "buyingOptions": [
+        "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.fr/itm/358311088969?var=626586956773",
+    "description": "<div id=\"ds_div\"><div style=\"width: 1251.3px; overflow: hidden;\"><div style=\"font-family: Arial; font-size: 14pt; margin-top: 20px; height: 40px; width: 1251.3px; background-color: rgb(2, 50, 94); padding-left: 10px;\"><div style=\"padding-top: 7px; height: 30px; width: 1251.3px; color: rgb(255, 255, 255); font-family: Tahoma; font-size: 22px; padding-left: 10px;\"><strong>DESCRIPTION</strong></div></div><div style=\"width: 1188.73px; margin: 20px auto;\"><div id=\"des_s\" style=\"font-family: Arial; font-size: 14pt;\"></div><p><span style=\"font-family: Arial; font-size: 24px;\"><strong>MISBHV OSAKA WOOL COAT 'AFTER DARK' AW16</strong></span></p><br><p><font face=\"Arial\"><span style=\"font-size: 20px;\">MISBHV Black Heads Oversize Wool Coat from 'After Dark' Autumn/Winter 2016 Collection.</span></font></p><p><font face=\"Arial\"><span style=\"font-size: 20px;\"><br></span></font></p><p><font face=\"Arial\"><span style=\"font-size: 20px;\">This now sold-out long coat from the AW16 \u2018After Dark\u2019 collection of Polish brand MISBHV which features pieces from their most iconic signature heads overcoat in red and black. A collector item conserved in very good condition, 81% wool 19% nylon. Made in Poland.</span></font></p><p><font face=\"Arial\"><span style=\"font-size: 20px;\"><br></span></font></p><p><font face=\"Arial\"><span style=\"font-size: 20px;\">\u2022&nbsp;<strong>SIZES AVAILABLE:</strong>&nbsp;S - L</span></font></p><p><span style=\"font-size: 20px; font-family: Arial; text-indent: initial;\">\u2022&nbsp;<strong>CONDITION:</strong>&nbsp;Close to unused</span></p><p><span style=\"font-size: 20px; font-family: Arial; text-indent: initial;\">\u2022&nbsp;<strong>COLORWAY:</strong>&nbsp;DARK BLACK / RED</span></p><p><span style=\"text-indent: initial; font-size: 20px;\"><font face=\"Arial\">\u2022&nbsp;<strong>RETAIL:</strong>&nbsp;$840 USD</font></span></p><p style=\"font-size: 14pt; box-sizing: border-box; margin: 0px 0px 20px; color: rgb(118, 118, 118);\"></p><br><br><br><br><p style=\"font-size: 20px; color: rgb(255, 0, 16); margin: 0px;\"><span style=\"text-decoration-line: underline; font-weight: bold;\">Attention International Buyers:</span><br><br><strong>For buyers in the E.U.:</strong><br>The item price and shipping fee include any applicable import duties. You will not be required to pay any additional customs charges. Please purchase with confidence.<br><br><strong>For buyers outside the E.U.:</strong><br>Please be aware that the item price and shipping fee do not include import duties or taxes.</p><p style=\"font-size: 20px; color: rgb(255, 0, 16); margin: 0px;\"><u>For buyers outside the E.U., the price is flexible and we welcome reasonable offers.</u><br><br><strong>About remote area delivery:</strong><br>Additional fees may apply if your delivery address is in a remote area. In such cases, UPS or DHL may charge an extra fee. We appreciate your understanding.</p></div></div></div><div style=\"font-family: Arial; font-size: 14pt; width: 1225.5px; margin: 20px auto;\"><div><font size=\"4\"><br></font></div><div><div style=\"font-size: 14pt; margin-top: 20px; height: 40px; width: 838.073px; background-color: rgb(2, 50, 94); padding-left: 10px;\"><div style=\"padding-top: 7px; height: 30px; width: 838.073px; color: rgb(255, 255, 255); font-family: Tahoma; font-size: 20px; padding-left: 10px;\"><strong>SHIPPING</strong></div></div><div style=\"font-size: 14pt; width: 796.167px; margin: 20px auto;\"><div id=\"abo_s\" style=\"font-size: 14pt;\"></div><p style=\"box-sizing: border-box; margin: 0px 0px 20px; color: rgb(118, 118, 118);\"><span style=\"color: rgb(0, 0, 0);\">Standard Shipping: (1-2 weeks) With Tracking, Insurance.</span></p><p style=\"box-sizing: border-box; margin: 0px 0px 20px; color: rgb(118, 118, 118);\"><span style=\"color: rgb(0, 0, 0);\">Express Shipping: (5-7 business days) With Tracking, Insurance.</span></p></div></div></div><div style=\"font-family: Arial; font-size: 14pt; width: 1225.5px; margin: 20px auto;\"><div style=\"width: 838.073px; overflow: hidden;\"><div style=\"font-size: 14pt; margin-top: 20px; height: 40px; width: 838.073px; background-color: rgb(2, 50, 94); padding-left: 10px;\"><div style=\"padding-top: 7px; height: 30px; width: 838.073px; color: rgb(255, 255, 255); font-family: Tahoma; font-size: 20px; padding-left: 10px;\"><strong>About DEIBIDO</strong></div></div><div style=\"font-size: 14pt; width: 796.167px; margin: 20px auto;\"><div id=\"abo_s\" style=\"font-size: 14pt;\"></div><p style=\"box-sizing: border-box; margin: 0px 0px 20px; color: rgb(118, 118, 118);\"><span style=\"color: rgb(0, 0, 0);\">Contact:</span></p><p style=\"box-sizing: border-box; margin: 0px 0px 20px; color: rgb(118, 118, 118);\"><span style=\"color: rgb(0, 0, 0);\">If you have any questions or concerns, please send me a message through ebay. I will get back to you as soon as possible within 24 hours.</span></p><p style=\"box-sizing: border-box; margin: 0px 0px 20px; color: rgb(118, 118, 118);\"><span style=\"color: rgb(0, 0, 0);\">Happy Shopping !</span></p></div></div></div>",
+    "paymentMethods": [
+        {
+            "paymentMethodType": "OTHER"
+        },
+        {
+            "paymentMethodType": "WALLET",
+            "paymentMethodBrands": [
+                {
+                    "paymentMethodBrandType": "PAYPAL"
+                },
+                {
+                    "paymentMethodBrandType": "APPLE_PAY"
+                }
+            ]
+        },
+        {
+            "paymentMethodType": "CREDIT_CARD",
+            "paymentMethodBrands": [
+                {
+                    "paymentMethodBrandType": "VISA"
+                },
+                {
+                    "paymentMethodBrandType": "MASTERCARD"
+                },
+                {
+                    "paymentMethodBrandType": "DINERS_CLUB"
+                }
+            ]
+        }
+    ],
+    "immediatePay": false,
+    "primaryItemGroup": {
+        "itemGroupId": "358311088969",
+        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=358311088969",
+        "itemGroupTitle": "MISBHV Osaka Wool Coat \u2018After Dark\u2019 Collection AW16",
+        "itemGroupImage": {
+            "imageUrl": "https://i.ebayimg.com/images/g/sj8AAeSwHxppsJZg/s-l1600.jpg",
+            "width": 855,
+            "height": 1140
+        },
+        "itemGroupAdditionalImages": [
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/cAcAAeSwnjlpsJZg/s-l1600.jpg",
+                "width": 855,
+                "height": 1140
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/FdEAAeSwSMppsJZh/s-l1600.jpg",
+                "width": 1012,
+                "height": 1349
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/mZUAAeSwSltpsJZh/s-l1600.jpg",
+                "width": 1200,
+                "height": 1600
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/qQIAAeSwu6hpsJZg/s-l1600.jpg",
+                "width": 1200,
+                "height": 1600
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/sYQAAeSwOOFpsJZg/s-l1600.jpg",
+                "width": 1200,
+                "height": 1600
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/o-sAAeSwtiBpsJZh/s-l1600.jpg",
+                "width": 847,
+                "height": 1600
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/lckAAeSwW15psJZh/s-l1600.jpg",
+                "width": 847,
+                "height": 1600
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/p4IAAeSw2yNpsJZg/s-l1600.jpg",
+                "width": 1200,
+                "height": 1599
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/uJoAAeSwUappsJZg/s-l1600.jpg",
+                "width": 1200,
+                "height": 1599
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/ohYAAeSwv5NpsJZg/s-l1600.jpg",
+                "width": 1200,
+                "height": 1599
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/pYYAAeSwdRtpsJZh/s-l1600.jpg",
+                "width": 1200,
+                "height": 1600
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/oaUAAeSwRr1psJZh/s-l1600.jpg",
+                "width": 1200,
+                "height": 1600
+            },
+            {
+                "imageUrl": "https://i.ebayimg.com/images/g/oMUAAeSwMotpsJZf/s-l1600.jpg",
+                "width": 1024,
+                "height": 683
+            }
+        ]
+    },
+    "enabledForGuestCheckout": true,
+    "eligibleForInlineCheckout": true,
+    "legacyItemId": "358311088969",
+    "priorityListing": false,
+    "adultOnly": false,
+    "categoryId": "63862",
+    "listingMarketplaceId": "EBAY_FR"
+}
