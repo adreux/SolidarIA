@@ -103,6 +103,10 @@ def main() -> int:
     if not commit_msg:
         return 0
 
+    # Les commits de merge automatiques (git merge --continue) sont ignorés
+    if commit_msg.startswith("Merge ") or os.path.exists(".git/MERGE_HEAD"):
+        return 0
+
     branch = current_branch()
     ticket_id = extract_ticket(branch) or extract_ticket(commit_msg)
 
@@ -136,9 +140,6 @@ def main() -> int:
     print(f"\n{status} {ticket_id} — {reason}")
 
     if not coherent:
-        if not sys.stdin.isatty():
-            print("Stdin non interactif (merge/rebase) — commit autorisé.")
-            return 0
         answer = input("Continuer quand même ? [y/N] ").strip().lower()
         if answer not in ("y", "o", "oui", "yes"):
             print("Commit annulé. Corrige le message ou le code.")
