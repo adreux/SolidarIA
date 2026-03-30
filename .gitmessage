@@ -1,0 +1,19 @@
+# SCRUM-XX: titre court, impératif, <72 caractères
+# type: feat | fix | refactor | test | docs | chore
+#
+# --- Quoi (obligatoire si le titre ne suffit pas) ---
+#
+#
+# --- Pourquoi (optionnel) ---
+#
+#
+# --- Périmètre modifié (fichiers/modules clés) ---
+#
+#
+# --- Definition of Done checklist ---
+# [ ] Code implémenté
+# [ ] Tests unitaires passent
+# [ ] Pas de secret commité
+# [ ] PR prête pour review
+#
+# Les lignes commençant par # sont ignorées par git.
