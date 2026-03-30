@@ -11,13 +11,14 @@ import subprocess
 import sys
 
 import httpx
-from anthropic import Anthropic
+from mistralai.client import Mistral
 
 # ── Config ────────────────────────────────────────────────────────────────────
 JIRA_BASE_URL = "https://amaurydreux-1997.atlassian.net"
 JIRA_EMAIL = os.environ.get("ATLASSIAN_EMAIL", "")
 JIRA_TOKEN = os.environ.get("ATLASSIAN_TOKEN", "")
-CLAUDE_MODEL = "claude-sonnet-4-6"
+MISTRAL_API_KEY = os.environ.get("MISTRAL_API_KEY", "")
+MISTRAL_MODEL = "mistral-small-latest"
 
 
 # ── Git helpers ───────────────────────────────────────────────────────────────
@@ -56,9 +57,11 @@ def fetch_jira_ticket(ticket: str) -> dict:
     }
 
 
-# ── Claude analysis ───────────────────────────────────────────────────────────
+# ── Mistral analysis ──────────────────────────────────────────────────────────
 def analyze(ticket: dict, commit_msg: str, diff_stat: str) -> tuple[bool, str]:
-    client = Anthropic()
+    import json
+
+    client = Mistral(api_key=MISTRAL_API_KEY)
     prompt = f"""Tu es un assistant de revue de commit. Analyse la cohérence entre ce commit et son ticket Jira.
 
 Ticket : {ticket['key']} — {ticket['summary']} [{ticket['status']}]
@@ -74,15 +77,13 @@ Réponds en JSON strict :
   "reason": "explication courte en une phrase"
 }}"""
 
-    message = client.messages.create(
-        model=CLAUDE_MODEL,
-        max_tokens=150,
+    response = client.chat.complete(
+        model=MISTRAL_MODEL,
         messages=[{"role": "user", "content": prompt}],
+        max_tokens=150,
+        response_format={"type": "json_object"},
     )
-
-    import json
-
-    raw = message.content[0].text.strip()
+    raw = response.choices[0].message.content.strip()
     result = json.loads(raw)
     return result["coherent"], result["reason"]
 
@@ -109,6 +110,10 @@ def main() -> int:
         print("[SKIP] Aucun ticket SCRUM détecté — commit autorisé.")
         return 0
 
+    if not MISTRAL_API_KEY:
+        print("[SKIP] MISTRAL_API_KEY non définie — commit autorisé.")
+        return 0
+
     if not JIRA_EMAIL or not JIRA_TOKEN:
         print("[SKIP] ATLASSIAN_EMAIL / ATLASSIAN_TOKEN non définis — commit autorisé.")
         return 0
@@ -124,7 +129,7 @@ def main() -> int:
     try:
         coherent, reason = analyze(ticket, commit_msg, diff_stat)
     except Exception as e:
-        print(f"[SKIP] Analyse Claude échouée ({e}) — commit autorisé.")
+        print(f"[SKIP] Analyse Mistral échouée ({e}) — commit autorisé.")
         return 0
 
     status = "[OK]" if coherent else "[WARN]"
