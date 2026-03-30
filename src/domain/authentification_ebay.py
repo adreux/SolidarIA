@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 import dotenv
 import requests
 
-from src.domain.authentification_ebay import EbayItemDetail, EbayItemSummary
+from src.domain.listing import EbayItemDetail, EbayItemSummary
 from src.logger import setup_logging
 
 setup_logging()

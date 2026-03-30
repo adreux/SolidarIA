@@ -111,11 +111,3 @@ class EbayItemDetail(EbayItemSummary):
                 0
             ].get("estimatedAvailableQuantity", 0),
         )
-
-
-# def main():
-#    logger.info(f"App ID: {len(ebayapi.app_id)}")
-
-
-# if __name__ == "__main__":
-#    main()
