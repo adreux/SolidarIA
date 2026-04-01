@@ -7,6 +7,12 @@ class Money:
     value: float
     currency: str
 
+    @property
+    def total_eur(self) -> float:
+        if self.currency == "EUR":
+            return self.value
+        raise ValueError(f"Conversion from {self.currency} not supported")
+
 
 class ConditionGrade(Enum):
     NEW = "NEW"
