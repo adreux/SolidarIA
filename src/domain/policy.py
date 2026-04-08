@@ -6,6 +6,15 @@ from .recommendation import RecommandationLevel
 
 
 class Policy(ABC):
+    """Abstract base class for all domain policies.
+
+    Invariants:
+    - apply() returns None if the listing passes the policy
+    - apply() returns a RecommandationLevel if the listing is blocked
+    - policies are stateless except for their configuration thresholds
+    - policies never call external services or access infrastructure
+    """
+
     @abstractmethod
     def apply(
         self, listing: Listing, llmanalysis: LLMAnalysis

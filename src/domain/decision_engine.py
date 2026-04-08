@@ -5,6 +5,14 @@ from .recommendation import RecommandationLevel, Recommendation
 
 
 class DecisionEngine:
+    """Evaluates a listing against a list of policies and returns the first blocking recommendation.
+
+    Invariants:
+    - stops at the first policy that returns SKIP (short-circuit)
+    - returns INVESTIGATE if all policies pass
+    - never returns BUY — the final purchase decision belongs to the user
+    """
+
     def __init__(self, policies: list[Policy]):
         self.policies = policies
 
@@ -27,6 +35,15 @@ class DecisionEngine:
 
 
 class DecisionEngineFullPolicy:
+    """Evaluates a listing against all policies and collects every blocking recommendation.
+
+    Invariants:
+    - runs all policies regardless of intermediate results (no short-circuit)
+    - returns one Recommendation per failing policy
+    - returns a single INVESTIGATE if all policies pass
+    - designed for golden dataset construction — preserves full failure context
+    """
+
     def __init__(self, policies: list[Policy]):
         self.policies = policies
 

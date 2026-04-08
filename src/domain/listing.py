@@ -4,6 +4,14 @@ from enum import Enum
 
 @dataclass(frozen=True)
 class Money:
+    """Immutable monetary value with currency.
+
+    Invariants:
+    - value is always positive
+    - currency is an ISO 4217 code (e.g. "EUR", "USD")
+    - conversion is only supported for EUR at this stage
+    """
+
     value: float
     currency: str
 
@@ -28,6 +36,15 @@ class ConditionGrade(Enum):
 
 @dataclass(frozen=True)
 class Listing:
+    """Core domain entity representing a coat listing, independent of any external source.
+
+    Invariants:
+    - id uniquely identifies the listing
+    - price and shipping_cost are always positive
+    - seller_feedback_percentage is in [0.0, 100.0]
+    - image_urls may be empty but never None
+    """
+
     id: str
     title: str
     price: Money
