@@ -52,6 +52,15 @@ class TestListing:
         with pytest.raises(FrozenInstanceError):
             sample_listing.condition = ConditionGrade.NEW
 
+    def test_money_total_eur_returns_value(self):
+        money = Money(value=42.0, currency="EUR")
+        assert money.total_eur == 42.0
+
+    def test_money_total_eur_raises_for_non_eur(self):
+        money = Money(value=42.0, currency="USD")
+        with pytest.raises(ValueError, match="not supported"):
+            _ = money.total_eur
+
     def test_optional_fields_can_be_none(self):
         listing = Listing(
             id="v1|456|0",
