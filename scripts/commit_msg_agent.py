@@ -140,7 +140,13 @@ def main() -> int:
     print(f"\n{status} {ticket_id} — {reason}")
 
     if not coherent:
-        answer = input("Continuer quand même ? [y/N] ").strip().lower()
+        try:
+            with open("/dev/tty") as tty:
+                sys.stdout.write("Continuer quand même ? [y/N] ")
+                sys.stdout.flush()
+                answer = tty.readline().strip().lower()
+        except OSError:
+            answer = "n"
         if answer not in ("y", "o", "oui", "yes"):
             print("Commit annulé. Corrige le message ou le code.")
             return 1

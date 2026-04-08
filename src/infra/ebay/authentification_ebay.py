@@ -7,6 +7,7 @@ from datetime import datetime, timedelta
 import dotenv
 import requests
 
+from src.infra.ebay.ebay_listing import EbayItemDetail, EbayItemSummary
 from src.logger import setup_logging
 
 setup_logging()
@@ -92,25 +93,27 @@ class EbayApi:
             logger.error(f"Request failed: {response.status_code} - {response.text}")
             raise Exception(f"Request failed: {response.status_code} - {response.text}")
 
-    def search_item(self, query: str) -> dict:
-        return self._get(
+    def search_item(self, query: str) -> list[EbayItemSummary]:
+        data = self._get(
             "https://api.ebay.com/buy/browse/v1/item_summary/search",
             params={"q": query},
         )
+        return [EbayItemSummary.from_ebay_json(item) for item in data["itemSummaries"]]
 
-    def search_item_ref(self, url: str) -> dict:
-        return self._get(url)
+    def search_item_ref(self, url: str) -> EbayItemDetail:
+        data = self._get(url)
+        return EbayItemDetail.from_ebay_json(data)
 
 
 def main():
     ebayapi = EbayApi()
-    request_response = ebayapi.search_item_ref(
+    ebayitemdetail = ebayapi.search_item_ref(
         "https://api.ebay.com/buy/browse/v1/item/v1%7C358311088969%7C626586956773"
     )
     #    path_item = "data/json_response/search_response.json"
     path_item_ref = "data/json_response/search_item_ref_response.json"
     with open(path_item_ref, "w") as f:
-        json.dump(request_response, f, indent=4)
+        json.dump(ebayitemdetail.model_dump(), f, indent=4)
 
 
 if __name__ == "__main__":
